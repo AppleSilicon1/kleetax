@@ -4,7 +4,7 @@ subtitle: Lee
 email: admin@kleetax.ca
 description: The best person to get your taxes done with
 baseurl: "/kleetax" # the subpath of your site, e.g. /blog
-url: applesilicon1.github.io # the base hostname & protocol for your site
+url: https://applesilicon1.github.io # the base hostname & protocol for your site
 author:
 
 # homepage tiles
