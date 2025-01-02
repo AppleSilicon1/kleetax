@@ -6,6 +6,9 @@ description: Life? Busy. Hotel? Trivago. Taxes? <b>Right here</b>.
 baseurl: "/kleetax" # the subpath of your site, e.g. /blog
 url: https://applesilicon1.github.io # the base hostname & protocol for your site
 author:
+street_address: Anytime.
+city: Anywhere.
+phone: (647)-745-6048
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

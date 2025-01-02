@@ -36,6 +36,19 @@
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 				</div>
 			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Where and When</h3>
+					<span>
+					{% if site.street_address %}
+					    <b>{{ site.street_address }}</b><br />
+					{% endif %}
+					{% if site.city %}
+					    <b>{{ site.city }}</b>
+					</span>
+				</div>
+			</section>
 		</section>
 	</div>
 </section>
