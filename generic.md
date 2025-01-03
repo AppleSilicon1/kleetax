@@ -18,12 +18,12 @@ nav-menu: true
     <li><b>Canada Pension Plan (CPP):</b> A social insurnace program that (generally) pays a small retirement pension to its contributors and/or their family  when the contributor retires, becomes disabled, or dies. It is funded with the contributions of employees, their employers, and the self-employed.</li>
          <ul>
             <li><b>Tip:</b> If you are under 18, you are exempt from CPP contributions. If your employer deducted contributions from your paycheque, you will recieve a refund on filing of your tax return.</li>  
-        </ul>
+</ul>
     <li><b>Carryforward amounts:</b> Unused tax credits or deductions carried forward to a future tax year, such as qualified tuition payments, RRSP contributions, etc.
     <li><b>Employment Insurnace (EI)</b> A form of social insurance that provides benefits to individuals whom, through no fault of their own, lose their job and are unable to find a job. This program is funded through a flat 1.66% deduction.</li> 
         <ul>
             <li><b>Tip:</b> Even if you are under 18, you are NOT exempt from EI contributions. Your employer will deduct this from your paycheque accordingly.
-        </ul>
+</ul>
     <li><b>Non-Refundable Tax Deductions/Credits:</b> Tax credits/deductions that can reduce the taxes you owe, only to zero. These can not be refunded to you in the event the reduction results in a negative.</li>
     <li><b>Non-Registered Accounts:</b> Saving or investment accounts not registered with the government, with no tax advantaged status.</li> 
     <li><b>Notice of Assessment:</b> An important document the CRA sends after assessing your complete tax return.</li> 
@@ -40,12 +40,9 @@ nav-menu: true
     <li><b>T5 slip:</b> A document given to you by your financial institution or brokerage that outlines interest paid and investment income in your <b>non-registered</b> accounts for the tax year.</li>
         <ul>
             <li><b>Tip:</b> If your total interest paid/investment income is under $50, you will not recieve a T5 slip. You must still report these amountsand pay taxes (where appliable).
-        </ul>
+</ul>
     <li><b>Tax Year:</b> Each PITR includes the information from one tax year. The tax year is synced with the calander year (Jan 1 - Dec 31)</li>
     <li><b>Tax Free Savings Account:</b> A registered account that lets you save, invest, and withdraw money (generally) tax free.</li>
     <li><b>Form TD1, Personal Tax Credits Returned:</b> 2 Forms (Provincial and Federal) that you must complete and return to your employer when you start a new job or if your tax situation changes. This form is used so your employer can deduct taxes and pay you correctly.</li>
         <ul>
             <li><b>Tip:</b> Even if your employer deducts too much taxes, you will recieve a refund on filing of your tax return.
-        </ul>
-</ul>
-
