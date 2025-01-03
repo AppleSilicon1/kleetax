@@ -4,6 +4,7 @@ layout: landing
 description: 'A bi-weekly blog about all things tax/finance.'
 image: assets/images/pic07.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
