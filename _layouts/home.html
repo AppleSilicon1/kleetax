@@ -21,7 +21,7 @@
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
                 <ul class="actions">
-                    <li><a href="#two" class="button next scrolly">Contact me!</a></li>
+                    <li><a href="#footer" class="button next scrolly">Contact me!</a></li>
                 </ul>
             </div>
         </div>
@@ -44,16 +44,15 @@
         </section>
 
         <!-- Two -->
-            {% include tiles.html %}
-
-        </div>
-
-    <div id="secondary">
         <section id="two">
-        {% include footer.html %}
-         </section>
-    </div>
+            {% include tiles.html %}
+        </section>
 
-    </body>
-    
-    </html>
+    </div>
+    <footer id="footer">
+        {% include footer.html %}
+    </footer>
+
+</body>
+
+</html>
