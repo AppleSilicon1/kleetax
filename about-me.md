@@ -1,6 +1,7 @@
 ---
 layout: page
-title: What I Do
+title: About me
+description: My services and promise to you
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
