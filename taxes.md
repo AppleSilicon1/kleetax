@@ -13,19 +13,19 @@ nav-menu: true
 <p>Elegible employment income can be used to build up Registered Retire Savings Plan <b>(RRSP)</b> contribution room. Any contributions can be used as a tax deduction in the current tax year, or carried forward to future years. If you are turning <b>19</b>, you must have filed a tax return to begin recieving the GST/HST credit and the Canada Carbon Rebate, valued at up to <b>$900</b> yearly.</p>
 
 <h2 id="content">Important Dates</h2>
-</ul>
-    </li><b>Jan. 01, 2025:</b> The contribution limit for your TFSA will reset.</li>
-    </li><b>Feb. 17, 2025:</b> The NETFILE and eFILE services will open for T1 PITR filings</li>
-    </li><b>Mar. 03, 2025:</b> The deadline for contributing to your RRSP, if you want to claim the deduction on your 2024 PITR.</li>
-    </li><b>Apr. 30, 2025:</b> The last day for you to file T1 PITRs without penalty (if you owe taxes).</li>
+<ul>
+    <li><b>Jan. 01, 2025:</b> The contribution limit for your TFSA will reset.</li>
+    <li><b>Feb. 17, 2025:</b> The NETFILE and eFILE services will open for T1 PITR filings</li>
+    <li><b>Mar. 03, 2025:</b> The deadline for contributing to your RRSP, if you want to claim the deduction on your 2024 PITR.</li>
+    <li><b>Apr. 30, 2025:</b> The last day for you to file T1 PITRs without penalty (if you owe taxes).</li>
 </ul>
 
 <h2 id="content">Important Amounts</h2>
-</ul>
-    </li><b>18% of your income OR $32,490 (whichever is lower):</b> The contribution limit for your RRSP in 2025.</li>
-    </li><b>$7000:</b> The TFSA contribution limit for 2025</li>
-    </li><b>$12,747:</b> The Basic Personal Limit for the Ontario portion of your PITR.</li>
-    </li><b>$16,129:</b> The Basic Personal Limit for Federal portion of your PITR. This amount is reduced if you made over $177,882 in 2024.</li>
+<ul>
+    <li><b>18% of your income OR $32,490 (whichever is lower):</b> The contribution limit for your RRSP in 2025.</li>
+    <li><b>$7000:</b> The TFSA contribution limit for 2025</li>
+    <li><b>$12,747:</b> The Basic Personal Limit for the Ontario portion of your PITR.</li>
+    <li><b>$16,129:</b> The Basic Personal Limit for Federal portion of your PITR. This amount is reduced if you made over $177,882 in 2024.</li>
 </ul>
 
 <h2 id="content">Important Terms for Taxes</h2>
@@ -55,4 +55,3 @@ nav-menu: true
     <li><b>Tax Free Savings Account:</b> A registered account that lets you save, invest, and withdraw money (generally) tax free.</li>
     <li><b>Form TD1, Personal Tax Credits Returned:</b> 2 Forms (Provincial and Federal) that you must complete and return to your employer when you start a new job or if your tax situation changes. This form is used so your employer can deduct taxes and pay you correctly.</li>
     <!--<li><b>Tip:</b> Even if your employer deducts too much taxes, you will recieve a refund on filing of your tax return.</li>-->
-</ul>
