@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taxes for Dummies
+title: Taxes
 description: All you need to know about Taxes
 image: assets/images/pic11.jpg
 nav-menu: true
