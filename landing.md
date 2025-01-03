@@ -1,7 +1,7 @@
 ---
 title: MaxMillions with Ken
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'A bi-weekly blog about all things tax/finance.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

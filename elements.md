@@ -19,8 +19,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Tax Preparation</h3>
-		<p>Need a return done pronto? No worries, I can prepare the Canadian & Provincial portion of your Personal Income Tax Returns. </p>
-		</br>
+		<p>Need a return done pronto? No worries, I can prepare the Canadian & Provincial portion of your Personal Income Tax Returns.</p>
 		<p>Last year, I got almost <b>$2200</b> of tax refunds back for all of my clients.</p>
 		<p>The best part? <b>Free 48-hour turnarounds</b> during peak season.  </p>
 	</div>
