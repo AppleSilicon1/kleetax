@@ -42,3 +42,17 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
+
+<section id="banner" class="major">
+    <div class="inner">
+        <header class="major">
+            <h1>Like what you see?</h1>
+        </header>
+        <div class="content">
+            <p style="text-transform: uppercase;">I would be happy to help you! Use the contact form below or send me an email! I will be in touch shortly :)</p>
+            <ul class="actions">
+                <li><a href="#footer" class="button next scrolly">Contact me!</a></li>
+            </ul>
+        </div>
+    </div>
+</section>

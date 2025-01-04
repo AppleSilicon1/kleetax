@@ -29,6 +29,7 @@ nav-menu: true
     <li><b>Mar. 03, 2025:</b> The deadline for contributing to your RRSP, if you want to claim the deduction on your 2024 PITR.</li>
     <li><b>Apr. 30, 2025:</b> The last day for you to file T1 PITRs without penalty (if you owe taxes).</li>
 </ul>
+<br>
 
 <h2 id="amounts">Important Amounts</h2>
 <ul>
@@ -37,6 +38,7 @@ nav-menu: true
     <li><b>$12,747:</b> The Basic Personal Amount for the Ontario portion of your PITR.</li>
     <li><b>$16,129:</b> The Basic Personal Amount for Federal portion of your PITR. This amount is reduced if you made over $177,882 in 2024.</li>
 </ul>
+<br>
 
 <h2 id="terms">Important Terms for Taxes</h2>
 
@@ -71,7 +73,6 @@ nav-menu: true
         </ul>
     <li><b>Carryforward amounts:</b> Unused tax credits or deductions carried forward to a future tax year, such as qualified tuition payments, RRSP contributions, etc.
     <li><b>Employment Insurnace (EI)</b> A form of social insurance that provides benefits to individuals whom, through no fault of their own, lose their job and are unable to find a job. This program is funded through a flat 1.66% deduction.</li> 
-    <!--<li><b>Tip:</b> Even if you are under 18, you are NOT exempt from EI contributions. Your employer will deduct this from your paycheque accordingly.</li>-->
         <ul class="nested">
             <li><b>Tip:</b> Even if you are under 18, you are NOT exempt from EI contributions. Your employer will deduct this from your paycheque accordingly.</li>
         </ul>
@@ -89,14 +90,12 @@ nav-menu: true
     <li><b>T1 Personal Income Tax Return (T1 PITR):</b> The tax form that used to file your taxes to the CRA for their adjudication and processing</li>        
     <li><b>T4 slip:</b> A document given to your by your employer that summarizes your employment earnings and payroll deductions for the year.</li>
     <li><b>T5 slip:</b> A document given to you by your financial institution or brokerage that outlines interest paid and investment income in your <b>non-registered</b> accounts for the tax year.</li>
-    <!--<li><b>Tip:</b> If your total interest paid/investment income is under $50, you will not recieve a T5 slip. You must still report these amountsand pay taxes (where appliable).</li>-->
         <ul class="nested">
             <li><b>Tip:</b> If your total interest paid/investment income is under $50, you will not recieve a T5 slip. You must still report these amountsand pay taxes (where appliable).</li>
         </ul>
     <li><b>Tax Year:</b> Each PITR includes the information from one tax year. The tax year is synced with the calander year (Jan 1 - Dec 31)</li>
     <li><b>Tax Free Savings Account:</b> A registered account that lets you save, invest, and withdraw money (generally) tax free.</li>
     <li><b>Form TD1, Personal Tax Credits Return:</b> 2 Forms (Provincial and Federal) that you must complete and return to your employer when you start a new job or if your tax situation changes. This form is used so your employer can deduct the right amount of taxes and pay you correctly.</li>
-    <!--<li><b>Tip:</b> Even if your employer deducts too much taxes, you will recieve a refund on filing of your tax return.</li>-->
         <ul class="nested">
             <li><b>Tip:</b> Even if your employer deducts too much taxes, you will recieve a refund on filing of your tax return.</li>
         </ul>
