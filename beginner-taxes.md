@@ -8,7 +8,7 @@ nav-menu: true
 
 <style>
   h2 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   ul {
@@ -16,7 +16,7 @@ nav-menu: true
   }
 
   p  {
-    margin-bottom:10px
+    margin-bottom:20px
   }
 </style>
 

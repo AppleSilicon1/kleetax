@@ -43,20 +43,14 @@ nav-menu: true
 	</div>
 </div>
 
-<div class="row">
-	<div class="12u">
-		<section id="banner" class="major">
-    		<div class="inner">
-        		<header class="major">
-            		<h1>Like what you see?</h1>
-        		</header>
-        		<div class="content">
-            		<p>I would be happy to help you! Use the contact form below or send me an email! I will be in touch shortly :)</p>
-            		<ul class="actions">
-                		<li><a href="#footer" class="button next scrolly">Contact me!</a></li>
-            		</ul>
-        		</div>
-    		</div>
-		</section>
-	</div>
-</div>
+<section id="one">
+    <div class="inner">
+        <header class="major">
+            <h2>A bit about me...</h2>
+        </header>
+        <p>I would be happy to help you! Use the contact form below or send me an email! I will be in touch shortly :)</p>
+        <ul class="actions">
+            <li><a href="footer.html" class="button next">Contact me!</a></li>
+        </ul>
+    </div>
+</section>
