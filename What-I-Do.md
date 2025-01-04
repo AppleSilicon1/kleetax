@@ -44,7 +44,24 @@ nav-menu: true
 </div>
 
 
-<section id="one">
+
+<section id="one" class="spotlights">
+            <section>
+                <div class="content">
+                    <div class="inner">
+                        <header class="major">
+                            <h2>Like what you see?</h2>
+                        </header>
+                        <p>I would be happy to help you! Use the contact form below or send me an email! I will be in touch shortly :)</p>
+                        <ul class="actions">
+                            <li><a href="footer" class="button next">Contact me!</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+<!-- <section id="one">
     <div class="inner">
         <header class="major">
             <h2>Like what you see?</h2>
@@ -54,4 +71,4 @@ nav-menu: true
             <li><a href="footer" class="button next">Contact me!</a></li>
         </ul>
     </div>
-</section>
+</section> -->
