@@ -32,7 +32,6 @@ nav-menu: true
   <style>
     ul {
       padding-left: 20px; /* Adjust the left padding for all lists */
-      line-height: 1.4; /* Adjust line spacing for all list items */
     }
     ul ul {
       padding-left: 40px; /* Increase indentation for nested lists */
