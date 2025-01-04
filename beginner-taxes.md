@@ -8,11 +8,15 @@ nav-menu: true
 
 <style>
   h2 {
-    margin-bottom: 10px; /* Adjust to reduce space below the header */
+    margin-bottom: 10px;
   }
 
   ul {
-    margin-top: 0; /* Remove extra space above the list */
+    margin-top: 0; 
+  }
+
+  p  {
+    margin-bottom:10px
   }
 </style>
 
