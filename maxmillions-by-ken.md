@@ -4,7 +4,7 @@ layout: landing
 description: 'by: Ken Lee'
 image: assets/images/pic07.jpg
 nav-menu: true
-show_tile: false
+show_tile: true
 ---
 
 <!-- Main -->
