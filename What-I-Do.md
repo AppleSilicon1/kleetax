@@ -34,10 +34,9 @@ nav-menu: true
 
 <section id="two">
 	<div class="inner">
-		<header class="major">
-			<h2>I promise</h2>
+		<header >
+			<h2>I promise that</h2>
 		</header>
-<p>I promise that:</p>
 <ul>
     <li>Your information will be <b>protected</b> and treated with <b>utmost privacy</b>. It will not be disclosed without your consent or knowledge.</li>
     <li>Any information and advice given to you is <b>true</b>, to the best of my knowledge</li>
