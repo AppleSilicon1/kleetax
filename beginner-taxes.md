@@ -16,7 +16,7 @@ nav-menu: true
   }
 
   p  {
-    margin-bottom:20px
+    margin-bottom:15px
   }
 </style>
 
