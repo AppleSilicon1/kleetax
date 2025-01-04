@@ -47,8 +47,8 @@ nav-menu: true
 
 <section id="one" class="spotlights">
             <section>
-                <div class="content">
-                    <div class="inner">
+                <div class="row">
+                    <div class="12u">
                         <header class="major">
                             <h2>Like what you see?</h2>
                         </header>
