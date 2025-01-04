@@ -6,11 +6,6 @@ image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
-<style>
-  #services, #promise {
-    text-align: left; 
-  }
-</style>
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -36,7 +31,12 @@ nav-menu: true
 	</div>
 </div>
 
-<h2 id="promise">I Promise</h2>
+
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>I promise</h2>
+		</header>
 <p>I promise that:</p>
 <ul>
     <li>Your information will be <b>protected</b> and treated with <b>utmost privacy</b>. It will not be disclosed without your consent or knowledge.</li>
