@@ -3,12 +3,12 @@ title: Ken
 subtitle: Lee
 email: admin@kleetax.ca
 description: Life? Busy. Hotel? Trivago. Taxes? <strong>Right here</strong>.
-baseurl: "/kleetax" # the subpath of your site, e.g. /blog
-url: https://applesilicon1.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: https://kleetax.ca # the base hostname & protocol for your site
 author: 
-street_address: Anytime.
-city: Anywhere.
-state: 
+street_address: Anytime you want, you got it;
+city: Anywhere you want, you got it.
+state:
 zip_code: 
 country: 
 phone: (647)-745-6048
