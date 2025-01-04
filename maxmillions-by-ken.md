@@ -1,7 +1,7 @@
 ---
-title: MaxMillions
+title: MaxMillions with Ken
 layout: landing
-description: 'by: Ken Lee'
+description: 'The premier source for vetted and up-to-date financial news'
 image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true

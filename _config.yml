@@ -4,7 +4,7 @@ subtitle: Lee
 email: admin@kleetax.ca
 description: Life? Busy. Hotel? Trivago. Taxes? <strong>Right here</strong>.
 baseurl: # the subpath of your site, e.g. /blog
-url: https://kleetax.ca # the base hostname & protocol for your site
+url: https://kleetax.ca/ # the base hostname & protocol for your site
 author: 
 street_address: Anytime you want, you got it;
 city: Anywhere you want, you got it.
