@@ -6,6 +6,16 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
+<style>
+  h2 {
+    margin-bottom: 10px; /* Adjust to reduce space below the header */
+  }
+
+  ul {
+    margin-top: 0; /* Remove extra space above the list */
+  }
+</style>
+
 <h2 id="who">Who Needs a Tax Return</h2>
 <p>There are many situations (and benefits) which may compel you to file a tax return. You should file a return if you have to pay taxes (see <b>Basic Personal Amount</b>) or have a refund you want to claim. Even if you do not have any income to report, you can still file a return. Filing a tax return may be required to qualify for several government programs. </p>
 

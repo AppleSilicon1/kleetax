@@ -31,15 +31,14 @@ nav-menu: true
 	</div>
 </div>
 
-
-<section id="two">
-	<div class="inner">
-		<header >
-			<h2>I promise that</h2>
-		</header>
-<ul>
-    <li>Your information will be <b>protected</b> and treated with <b>utmost privacy</b>. It will not be disclosed without your consent or knowledge.</li>
-    <li>Any information and advice given to you is <b>true</b>, to the best of my knowledge</li>
-    <li>I will <b>not</b> benefit (in the form of commissions, or otherwise) from any and all products and services I recommend to you.</li>
-    <li>To try my <b>best</b> for all my clients. <b>Always.</b></li>
-</ul>
+<div class="row">
+	<div class="12u">
+		<h2 id="promise">I promise that</h2>
+		<ul>
+    		<li>Your information will be <b>protected</b> and treated with <b>utmost privacy</b>. It will not be disclosed without your consent or knowledge.</li>
+   			<li>Any information and advice given to you is <b>true</b>, to the best of my knowledge</li>
+    		<li>I will <b>not</b> benefit (in the form of commissions, or otherwise) from any and all products and services I recommend to you.</li>
+    		<li>To try my <b>best</b> for all my clients. <b>Always.</b></li>
+		</ul>
+	</div>
+</div>
