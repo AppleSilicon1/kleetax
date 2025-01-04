@@ -42,7 +42,9 @@ nav-menu: true
     }
     li ul li {
       margin-bottom: 4px; /* Prevent excessive margin for nested list items */
+      padding-bottom: 2px; /* Optional: Add a small padding to maintain some space */
     }
+
   </style>
 <ul>
 	<li><b>Basic Personal Amount:</b> A non-refundable tax credit on your federal and provincial tax return claimable by all taxpayers</li>
