@@ -8,7 +8,7 @@ nav-menu: true
 
 <style>
   h2 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 
   ul {
@@ -22,9 +22,11 @@ nav-menu: true
 
 <h2 id="who">Who Needs a Tax Return</h2>
 <p>There are many situations (and benefits) which may compel you to file a tax return. You should file a return if you have to pay taxes (see <b>Basic Personal Amount</b>) or have a refund you want to claim. Even if you do not have any income to report, you can still file a return. Filing a tax return may be required to qualify for several government programs. </p>
+<br>
 
 <h2 id="why">Benefits to Filing</h2>
 <p>Eligible employment income can be used to build up Registered Retirement Savings Plan <b>(RRSP)</b> contribution room. Any contributions can be used as a tax deduction in the current tax year, or carried forward to future years. If you are turning <b>19</b>, you must have filed a tax return to begin recieving the GST/HST credit and the Canada Carbon Rebate, valued at up to <b>$900</b> yearly (for single individuals with no dependents).</p>
+<br>
 
 <h2 id="when">Important Dates</h2>
 <ul>
