@@ -39,17 +39,17 @@ nav-menu: true
     padding-left: 20px;
   }
   ul ul {
-    padding-left: 20px; /* Reduce indentation for nested lists */
+    padding-left: 20px;
   }
   li {
-    margin-bottom: 2px; /* Adjust margin to reduce space between list items */
+    margin-bottom: 2px;
   }
   li ul li {
-    margin-bottom: 0; /* No space after nested list items */
-    padding-bottom: 0; /* No extra space after nested list items */
+    margin-bottom: 0;
+    padding-bottom: 0;
   }
   li ul {
-    margin-top: 0; /* Ensure there's no extra space above nested list */
+    margin-top: 0;
   }
 </style>
   
