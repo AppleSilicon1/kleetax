@@ -29,22 +29,30 @@ nav-menu: true
 </ul>
 
 <h2 id="terms">Important Terms for Taxes</h2>
-  <style>
-    ul {
-      padding-left: 20px; /* Adjust the left padding for all lists */
-    }
-    ul ul {
-      padding-left: 40px; /* Increase indentation for nested lists */
-    }
-    li {
-      margin-bottom: 4px; /* Adjust margin to reduce space between list items */
-    }
-    li ul li {
-      margin-bottom: 0; /* Prevent excessive margin for nested list items */
-      padding-bottom: 0; /* Optional: Add a small padding to maintain some space */
-    }
 
-  </style>
+<style>
+  ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    padding-left: 20px;
+  }
+  ul ul {
+    padding-left: 20px; /* Reduce indentation for nested lists */
+  }
+  li {
+    margin-bottom: 2px; /* Adjust margin to reduce space between list items */
+  }
+  li ul li {
+    margin-bottom: 0; /* No space after nested list items */
+    padding-bottom: 0; /* No extra space after nested list items */
+  }
+  li ul {
+    margin-top: 0; /* Ensure there's no extra space above nested list */
+  }
+</style>
+  
 <ul>
 	<li><b>Basic Personal Amount:</b> A non-refundable tax credit on your federal and provincial tax return claimable by all taxpayers</li>
     <li><b>Canada Pension Plan (CPP):</b> A social insurnace program that (generally) pays a small retirement pension to its contributors and/or their family  when the contributor retires, becomes disabled, or dies. It is funded with the contributions of employees, their employers, and the self-employed.</li>
