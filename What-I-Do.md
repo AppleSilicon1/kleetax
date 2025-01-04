@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: What I Do
 description: My services and promise to you
 image: assets/images/pic01.jpg
 nav-menu: true
@@ -17,6 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+<h2 id="services">My Services</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Tax Preparation</h3>
@@ -29,3 +30,12 @@ nav-menu: true
 		<p>Got a tax refund? No clue what to do with your hard earned dollars? NO problem, I can help you find solutions for your money, maximizing returns and minimizing risk - all tailored to your individual goals/ risk preferences.</p>
 	</div>
 </div>
+
+<h2 id="promise">My Promise</h2>
+<p>I promise that:</p>
+<ul>
+    <li>Your information will be <b>protected</b> and treated with <b>utmost privacy</b>. It will not be disclosed without your consent or knowledge.</li>
+    <li>Any information and advice given to you is <b>true</b>, to the best of my knowledge</li>
+    <li>I will <b>not</b> benefit (in the form of commissions, or otherwise) from any and all products and services I recommend to you.</li>
+    <li>To try my <b>best</b> for all my clients. <b>Always.</b></li>
+</ul>
