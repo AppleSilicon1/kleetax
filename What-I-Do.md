@@ -54,15 +54,3 @@ nav-menu: true
         </div>
     </div>
 </section>
-
-<!-- <section id="one">
-    <div class="inner">
-        <header class="major">
-            <h2>Like what you see?</h2>
-        </header>
-        <p>I would be happy to help you! Use the contact form below or send me an email! I will be in touch shortly :)</p>
-        <ul class="actions">
-            <li><a href="footer" class="button next">Contact me!</a></li>
-        </ul>
-    </div>
-</section> -->
