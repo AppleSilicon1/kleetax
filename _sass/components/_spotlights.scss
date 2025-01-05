@@ -118,7 +118,7 @@
 		}
 	}
 
-	.second-row-like {
+	.home-intro-dupe {
 		@include vendor('flex-direction', 'row-reverse');
 		background-color: desaturate(lighten(_palette(bg-alt), 4), 2);
 	
