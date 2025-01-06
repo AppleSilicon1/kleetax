@@ -23,17 +23,17 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="_posts\2025-01-05-tax-season.md" class="image">
+			<img src="assets/images/pic06.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>First Article</h3>
+					<h3>New Changes to Taxes 2025</h3>
 				</header>
 				<p>Oh wow it's a new article!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="_posts\2025-01-05-tax-season.md" class="button">Read me</a></li>
 				</ul>
 			</div>
 		</div>
