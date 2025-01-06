@@ -3,8 +3,8 @@ title: MaxMillions with Ken
 layout: landing
 description: 'The premier source for vetted and up-to-date financial news'
 image: assets/images/pic07.jpg
-nav-menu: false
-show_tile: false
+nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
@@ -23,7 +23,7 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="_posts/2025-01-05-tax-season.md" class="image">
+		<a href="posts/2025-01-05-tax-season.html" class="image">
 			<img src="assets/images/pic06.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
