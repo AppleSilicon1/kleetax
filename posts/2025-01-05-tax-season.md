@@ -7,8 +7,27 @@ nav-menu: false
 show_tile: false
 ---
 
+<!-- Main -->
+<div id="main" class="alt">
 
-Good morning folks!
-This year, the government of Canada has announced that the inclusion rate for capital gains will increase from 50% to 66% for any capital gains over 250k. This move is expected to be detrimental to would-be-investors and comes over increasingly discourse over the econommic situation and affordabilty crises in Canada. 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>New Changes to Tax Season</h1>
+		</header>
 
-(Test article)
+<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
+
+<p>By: <b>Ken Lee</b> | Chef Information Officer</p>
+<p>Published: Jan 11, 2025 9:41AM EST (Updated Jan 12, 2025 9:41PM EST)
+
+<hr class="major" />
+
+<p>Good morning folks!</p>
+
+<p>This year, the government of Canada has announced that the inclusion rate for capital gains will increase from 50% to 66% for any capital gains over 250k. This move is expected to be detrimental to would-be-investors and comes over increasingly discourse over the econommic situation and affordabilty crises in Canada.<p>
+
+<p>More to come.<p> 
+
+<p>(Test article)</p>
