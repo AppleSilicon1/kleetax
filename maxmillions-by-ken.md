@@ -3,8 +3,8 @@ title: MaxMillions with Ken
 layout: landing
 description: 'The premier source for vetted and up-to-date financial news'
 image: assets/images/pic07.jpg
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
