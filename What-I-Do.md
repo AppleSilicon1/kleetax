@@ -54,7 +54,7 @@ nav-menu: true
             <h2 id="like">Like what you see?</h2>
             <p>I would be happy to help you! Use the contact form below or send me an email! I will be in touch shortly :)</p>
             <ul class="actions">
-                <li><a href="footer" class="button next">Contact me!</a></li>
+                <li><a href="#footer" class="button next">Contact me!</a></li>
             </ul>
         </div>
     </div>
