@@ -2,7 +2,7 @@
 layout: page
 title: What I Do
 description: My services and promise to you
-image: assets/images/pic01.jpg
+image: assets/images/pic15.jpg
 nav-menu: true
 ---
 
