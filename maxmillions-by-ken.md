@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="_posts/2025-01-05-tax-season.html" class="image">
+		<a href="_posts/2025-01-05-tax-season.md" class="image">
 			<img src="assets/images/pic06.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">

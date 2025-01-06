@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title: Tax Season
 description: What's new for 2025
 image: assets/images/pic06.jpg
+nav-menu: false
+show_tile: false
 ---
 
 Good morning folks!
