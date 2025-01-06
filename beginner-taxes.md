@@ -2,7 +2,7 @@
 layout: post
 title: Taxes
 description: All you need to know about Taxes
-image: assets/images/pic11.jpg
+image: assets/images/pic15.jpg
 nav-menu: true
 ---
 
