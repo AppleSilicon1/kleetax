@@ -17,7 +17,7 @@ show_tile: false
 			<h1>New Changes to Tax Season</h1>
 		</header>
 
-<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
+<span class="image main"><img src="assets/images/pic06.jpg" alt="" /></span>
 
 <p>By: <b>Ken Lee</b> | Chef Information Officer</p>
 <p>Published: Jan 11, 2025 9:41AM EST (Updated Jan 12, 2025 9:41PM EST)
