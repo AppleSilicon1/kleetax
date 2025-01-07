@@ -3,8 +3,8 @@ title: MaxMillions with Ken
 layout: landing
 description: 'The premier source for vetted and up-to-date financial advice & news'
 image: assets/images/pic16.jpg
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
@@ -33,7 +33,7 @@ show_tile: true
 				</header>
 				<p>Oh wow it's a new article!</p>
 				<ul class="actions">
-					<li><a href="posts/template" class="button">Read me</a></li>
+					<li><a href="/posts/template" class="button">Read me</a></li>
 				</ul>
 			</div>
 		</div>
