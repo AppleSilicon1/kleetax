@@ -10,13 +10,12 @@ show_tile: false
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- Image -->
-<span class="image main"><img src="assets/images/pic03.jpg" alt=""/></span>
+<img src="assets/images/pic03.jpg" alt="" />
 
 <!-- Credits -->
 <p>By: <b>Ken Lee</b> | Chef Information Officer <br> Published: Jan 11, 2025 9:41AM EST (Updated Jan 12, 2025 9:41PM EST)</p>
 
-<hr class="major" />
+<hr class="major"/>
 
 <!-- Content -->
 <p>Good morning Toronto!</p>
