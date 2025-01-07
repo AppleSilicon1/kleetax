@@ -12,7 +12,7 @@ show_tile: false
 
 <!-- Image -->
 <span class="image main"><img src="assets/images/pic03.jpg" alt="" /></span>
-<figcaption>Mountains I wish I could visit...</figcaption>
+<figcaption>Mountains I wish I could visit..</figcaption>
 
 <!-- Credits -->
 <p>By: <b>Ken Lee</b> | Chef Information Officer <br> Published: Jan 11, 2025 9:41AM EST (Updated Jan 12, 2025 9:41PM EST)
