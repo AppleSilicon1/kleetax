@@ -23,7 +23,7 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="posts/template" class="image">
+		<a href="/posts/template" class="image">
 			<img src="assets/images/pic06.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
