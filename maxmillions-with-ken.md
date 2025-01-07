@@ -1,8 +1,8 @@
 ---
 title: MaxMillions with Ken
 layout: landing
-description: 'The premier source for vetted and up-to-date financial news'
-image: assets/images/pic07.jpg
+description: 'The premier source for vetted and up-to-date financial advice & news'
+image: assets/images/pic16.jpg
 nav-menu: true
 show_tile: true
 ---
@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="posts/2025-01-05-tax-season.html" class="image">
+		<a href="posts/template" class="image">
 			<img src="assets/images/pic06.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,7 +33,7 @@ show_tile: true
 				</header>
 				<p>Oh wow it's a new article!</p>
 				<ul class="actions">
-					<li><a href="_posts/2025-01-05-tax-season.html" class="button">Read me</a></li>
+					<li><a href="posts/template" class="button">Read me</a></li>
 				</ul>
 			</div>
 		</div>
