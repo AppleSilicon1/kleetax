@@ -16,8 +16,6 @@ show_tile: false
 <!-- Credits -->
 <p>By: <b>Ken Lee</b> | Chef Information Officer <br> Published: Jan 11, 2025 9:41AM EST (Updated Jan 12, 2025 9:41PM EST)
 
-<hr class="major"/>
-
 <!-- Content -->
 <p>Good morning Toronto!</p>
 
