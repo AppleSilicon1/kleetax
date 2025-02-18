@@ -24,7 +24,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/posts/2025/02-17-new-tax-changes" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic17.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -32,22 +32,6 @@ show_tile: true
 					<h3>2025: What's new for tax season</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: Feb 17, 2025 2:25PM EST</p>
-				<ul class="actions">
-					<li><a href="/posts/2025/02-17-new-tax-changes" class="button">Read me!</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="/posts/2025/02-17-new-tax-changes" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center">
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>TEst</h3>
-				</header>
-				<p>X Info</p>
 				<ul class="actions">
 					<li><a href="/posts/2025/02-17-new-tax-changes" class="button">Read me!</a></li>
 				</ul>
