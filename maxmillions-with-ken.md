@@ -1,7 +1,7 @@
 ---
 title: MaxMillions with Ken
 layout: landing
-description: 'The premier source for vetted and up-to-date financial advice & news'
+description: 'Your premier source for vetted and up-to-date (and free) financial advice & news'
 image: assets/images/pic16.jpg
 nav-menu: true
 show_tile: true
@@ -24,7 +24,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/posts/2025/02-17-new-tax-changes" class="image">
-			<img src="assets/images/pic17.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic18.webp" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -33,7 +33,7 @@ show_tile: true
 				</header>
 				<p>By: Ken Lee<br>Published: Feb 17, 2025 2:25PM EST</p>
 				<ul class="actions">
-					<li><a href="/posts/2025/02-17-new-tax-changes" class="button">Read me</a></li>
+					<li><a href="/posts/2025/02-17-new-tax-changes" class="button">Read me!</a></li>
 				</ul>
 			</div>
 		</div>
