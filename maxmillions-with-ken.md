@@ -16,24 +16,24 @@ show_tile: false
 		<header class="major">
 			<h2>Quoi?</h2>
 		</header>
-		<p>Welcome to my blog! Every other (Day of the Week) I will post an article about various tax and financial topics. (Say something nice and witty)</p>
+		<p>Welcome to my blog! Every other Monday, I will post an article about various tax and financial topics. (Say something nice and witty)</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="/posts/template" class="image">
-			<img src="assets/images/pic06.jpg" alt="" data-position="center center" />
+		<a href="/posts/2025/02-17-new-tax-changes.md" class="image">
+			<img src="assets/images/pic17.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>New Changes to Taxes 2025</h3>
+					<h3>2025: What's new for tax season</h3>
 				</header>
-				<p>Oh wow it's a new article!</p>
+				<p>By: Ken Lee<br>Published: Feb 17, 2025 2:25PM EST</p>
 				<ul class="actions">
-					<li><a href="/posts/template" class="button">Read me</a></li>
+					<li><a href="/posts/2025/02-17-new-tax-changes.md" class="button">Read me</a></li>
 				</ul>
 			</div>
 		</div>

@@ -30,8 +30,8 @@ nav-menu: true
 
 <h2 id="when">Important Dates</h2>
 <ul>
-    <li><b>Jan. 01, 2025:</b> The contribution limit for your TFSA will reset and you may begin to contribute again.</li>
-    <li><b>Feb. 17, 2025:</b> The NETFILE and eFILE services will open for T1 PITR filings.</li>
+    <li><b>Jan. 01, 2025:</b> The contribution limit for your TFSA will reset and you may begin to contribute anew.</li>
+    <li><b>Feb. 24, 2025:</b> The NETFILE and eFILE services will open for T1 PITR filings.</li>
     <li><b>Mar. 03, 2025:</b> The deadline for contributing to your RRSP, if you want to claim the deduction on your 2024 PITR.</li>
     <li><b>Apr. 30, 2025:</b> The last day for you to file T1 PITRs without penalty (if you owe taxes).</li>
 </ul>
