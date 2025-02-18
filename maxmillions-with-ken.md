@@ -38,24 +38,22 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-</section>
-
-</div>
-
-
-<section>
-		<a href="generic.html" class="image">
-			<img src="/forty-jekyll-theme/assets/images/pic08.jpg" alt="" data-position="center center">
+	<section>
+		<a href="/posts/2025/02-17-new-tax-changes" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center">
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>TEst</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>X Info</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="/posts/2025/02-17-new-tax-changes" class="button">Read me!</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+</section>
+
+</div>
