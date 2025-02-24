@@ -16,7 +16,7 @@ show_tile: true
 		<header class="major">
 			<h2>Quoi?</h2>
 		</header>
-		<p>Welcome to my blog! Every other Monday, I will post an article about various tax and financial topics. (Say something nice and witty)</p>
+		<p>Welcome to my blog! Every other Monday, I post an article about various tax and financial topics on the forefront of Canadian news.</p>
 	</div>
 </section>
 
@@ -31,7 +31,7 @@ show_tile: true
 				<header class="major">
 					<h3>2025: What's new for tax season</h3>
 				</header>
-				<p>By: Ken Lee<br>Published: Feb 17, 2025 2:25PM EST</p>
+				<p>By: Ken Lee<br>Published: Feb 24, 2025 4:49AM EST</p>
 				<ul class="actions">
 					<li><a href="/posts/2025/02-17-new-tax-changes" class="button">Read me!</a></li>
 				</ul>
