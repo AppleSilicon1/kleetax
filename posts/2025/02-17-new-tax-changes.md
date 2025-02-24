@@ -41,6 +41,3 @@ show_tile: false
       <p>That's all for tax season! For individuals, make sure to collect those tax slips and file by <b>30 April 2025</b> (if you are anticipated to owe taxes) to avoid late-filing penalties! </p>
       <p>How can we help? KLee Tax specializes in filing tax returns for individuals, businesses, and corporations. Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that KLee Tax will be there for your tax needs, when and where you need us.</p>
       <p><b>Unsure of where to start?</b> Be sure to reach out below!</p>
-    </div>
-  </div>
-</section>
