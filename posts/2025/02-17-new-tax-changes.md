@@ -39,6 +39,6 @@ show_tile: false
     <p><b>Attention all NPOs and Corporations:</b> The CRA recently amended the Income Tax Regulations (ITRs) of the Income Tax Act (ITA) to remove the T2 (Corporate Tax Return) filing exemption for Canadian resident corporations with Annual Gross Revenues (AGRs) under $1 million. Under these new rules, all Canadian corporations (including provincially/federally incorporated NPOs) MUST file T2 Corporate Tax Returns, regardless of income. Note that NPOs are exempt from taxes under §149.1(l) of the ITA, and can instead file the simplified T2SHORT. 
     <p>That's all for tax season! For individuals, make sure to collect those tax slips and file by <b>30 April 2025</b> (if you are anticipated to owe taxes) to avoid late-filing penalties! </p>
     <p>How can we help? KLee Tax specializes in filing tax returns for individuals, businesses, and corporations. Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that KLee Tax will be there for your tax needs, when and where you need us.</p>
-    <p>Unsure of where to start? Be sure to reach out below!</p>
-	</div>
+    <p><b>Unsure of where to start?</b> Be sure to reach out below!</p>
+  </div>
 </div>
