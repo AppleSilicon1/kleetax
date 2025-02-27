@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="/posts/2025/02-17-new-tax-changes" class="image">
+		<a href="/posts/2025/02-24-new-tax-changes" class="image">
 			<img src="{% link assets/images/pic17.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,7 +33,7 @@ show_tile: true
 				</header>
 				<p>By: Ken Lee<br>Published: Feb 24, 2025 4:49AM EST</p>
 				<ul class="actions">
-					<li><a href="/posts/2025/02-17-new-tax-changes" class="button">Read me!</a></li>
+					<li><a href="/posts/2025/02-24-new-tax-changes" class="button">Read me!</a></li>
 				</ul>
 			</div>
 		</div>
