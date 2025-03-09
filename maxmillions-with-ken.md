@@ -23,15 +23,31 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/03-10-study-party-taxes" class="image">
+			<img src="{% link assets/images/pic18.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Study, Party, Taxes? The 101 on Student Taxes</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 9 March 2025 4:49AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/03-10-study-party-taxes" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/02-24-new-tax-changes" class="image">
-			<img src="{% link assets/images/pic17.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic17.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>2025: What's new for tax season</h3>
 				</header>
-				<p>By: Ken Lee<br>Published: Feb 24, 2025 4:49AM EST</p>
+				<p>By: Ken Lee<br>Published: 24 Feburary 2025 4:49AM EST</p>
 				<ul class="actions">
 					<li><a href="/posts/2025/02-24-new-tax-changes" class="button">Read me!</a></li>
 				</ul>

@@ -20,7 +20,7 @@ show_tile: false
 <!-- Credits -->
 <div class="row">
 	<div class="12u">
-		<p>By: <b>Ken Lee</b> | KLee Tax <br> Published: 10 March, 2025 9:41AM EST (Updated Jan 1, 2025 10:41PM EST)</p>
+		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: 10 March 2025 4:41AM EST (Updated 10 March 2025 5:10AM EST)</p>
 	</div>
 </div>
 
@@ -57,6 +57,3 @@ show_tile: false
       <p>In a nutshell: It depends! International tax law depends heavily on the treaty signed (if any) between Canada and the foreign nation. Canadian students considering studying abroad should engage a professional for advice before making a final decision.
       <p><b>How can we help?</b> KLee Tax specializes in filing tax returns for individuals, businesses, and corporations. Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that KLee Tax will be there for your tax needs, when and where you need us.</p>
       <p><b>Unsure of where to start?</b> Be sure to reach out below!</p> 
-    </div>
-  </div>
-</section>

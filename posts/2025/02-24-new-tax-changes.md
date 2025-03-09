@@ -20,7 +20,7 @@ show_tile: false
 <!-- Credits -->
 <div class="row">
 	<div class="12u">
-		<p>By: <b>Ken Lee</b> | KLee Tax <br> Published: Feb 24, 2025 4:49AM EST (Updated Feb 24, 2025 5:10AM EST)</p>
+		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: 24 Feb 2025 4:49AM EST (Updated 24 Feb 2025 5:10AM EST)</p>
 	</div>
 </div>
 
