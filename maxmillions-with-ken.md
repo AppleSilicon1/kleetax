@@ -31,7 +31,7 @@ show_tile: true
 				<header class="major">
 					<h3>NEW: Study, Party, Taxes? The 101 on Student Taxes</h3>
 				</header>
-				<p>By: Ken Lee<br>Published: 9 March 2025 4:49AM EST</p>
+				<p>By: Ken Lee<br>Published: 10 March 2025 4:49AM EST</p>
 				<ul class="actions">
 					<li><a href="/posts/2025/03-10-study-party-taxes" class="button">Read me!</a></li>
 				</ul>
