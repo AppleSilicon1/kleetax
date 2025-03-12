@@ -20,7 +20,7 @@ show_tile: false
 <!-- Credits -->
 <div class="row">
 	<div class="12u">
-		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: 10 March 2025 4:49AM EST (Updated 12 March 2025 6:28 EST)</p>
+		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: 10 March 2025 4:49AM EST (Updated 12 March 2025 6:28PM EST)</p>
 	</div>
 </div>
 
@@ -49,8 +49,8 @@ show_tile: false
       <ul>
 			  <li><b>Permanent Home Test:</b> In which Contracting State does an individual have a permanent home always available to them, that will be available ‘at all times, continuously'?</li>
 			  <li><b>Center of vital interests Test:</b> To which Contracting State is an individual's social and economic ties closer?</li>
-        <li><b>Habitual Abode Test</b>In which Contracting State does the individual regularly live?
-        <li><b>Citizenship Test</b>In which Contracting State does the individual hold citizenship of?
+        <li><b>Habitual Abode Test:</b> In which Contracting State does the individual regularly live?</li>
+        <li><b>Citizenship Test:</b> In which Contracting State does the individual hold citizenship of?</li>
 		  </ul>
       <p>These tiebreaker rules follow the order of precedence laid above. For example, to use the Citizenship Test, the other 3 tests <b>must</b> have all been tried, and tied. In the event that the 4th test (Citizenship) fails (either due to the individual holding none OR both of the Contracting States' citizenship), the individual's tax residence shall be decided mutually between the tax authority of the two countries. 
       <p>As most Canadian students usually have a parent/guardian’s house to return to in Canada, they would generally be considered to be <b>factual residents</b> for Canadian tax purposes.</p> 
