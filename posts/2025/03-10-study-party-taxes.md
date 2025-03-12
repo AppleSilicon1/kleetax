@@ -20,7 +20,7 @@ show_tile: false
 <!-- Credits -->
 <div class="row">
 	<div class="12u">
-		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: 10 March 2025 4:49AM EST (Updated 10 March 2025 5:10AM EST)</p>
+		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: 10 March 2025 4:49AM EST (Updated 12 March 2025 6:28 EST)</p>
 	</div>
 </div>
 
@@ -45,12 +45,15 @@ show_tile: false
       <p>Before we continue, note that according to Canadian immigration law, <b>PRs must spend 740 days every 5 years in Canada to retain their PR status</b>. There are no provisions for maintaining your PR status if you study, and remain abroad, for extended periods of time.</p>
       <p>To start, your residency status for Canadian tax purposes is dependent on the country you are studying in, if that country has a tax treaty with Canada, and your individual residency ties to Canada. Many popular countries that Canadians study in, such as the US and UK, have <b>tax treaties</b> with Canada. According to the Income Tax Act:</p>
       <blockquote>Notwithstanding any other provision of this Act (other than paragraph 126(1.1)(a)), a person is deemed not to be resident in Canada at a time if, at that time, the person would, but for this subsection and any tax treaty, be resident in Canada for the purposes of this Act but is, under a tax treaty with another country, resident in the other country and not resident in Canada.<br>  - §205(5), Income Tax Act</blockquote>
-      <p>Technically, it is possible for a person to be <b>considered a tax resident by Canada</b> (by maintaining significant residency ties) <b>and another foreign nation</b>, therefore being subject to taxation in these jurisdictions. Thus, most tax treaties Canada signs with foreign nations have so-called <b>‘tie-breaker rules’</b> to definitively determine which country an individual is a resident of for tax purposes and treaty purposes. These tiebreaker rules generally include (but may differ from treaty to treaty) a;<p>
+      <p>Technically, it is possible for a person to be <b>considered a tax resident by Canada</b> (by maintaining significant residency ties) <b>and another foreign nation</b>, therefore being subject to taxation in these jurisdictions. Thus, most tax treaties Canada signs with foreign nations (the <b>'Contracting States'</b>) have so-called <b>‘tie-breaker rules’</b> to definitively determine which country an individual is a resident of for tax purposes and treaty purposes. These tiebreaker rules are usually contained in <b>Article 4 (IV)</b> of the treaty, and generally include (but may differ from treaty to treaty) a;<p>
       <ul>
-			  <li><b>Permanent Home Test:</b> In which nation does an individual have a permanent home always available to them, that will be available ‘at all times, continuously'?</li>
-			  <li><b>Center of vital interests Test:</b> To which nation is an individual's social and economic ties closer?</li>
+			  <li><b>Permanent Home Test:</b> In which Contracting State does an individual have a permanent home always available to them, that will be available ‘at all times, continuously'?</li>
+			  <li><b>Center of vital interests Test:</b> To which Contracting State is an individual's social and economic ties closer?</li>
+        <li><b>Habitual Abode Test</b>In which Contracting State does the individual regularly live?
+        <li><b>Citizenship Test</b>In which Contracting State does the individual hold citizenship of?
 		  </ul>
-      <p>Generally, the permanent home test is used to resolve residency disputes first. As most Canadian students usually have a parent/guardian’s house to return to in Canada, they would generally be considered to be <b>factual residents</b> for Canadian tax purposes.</p> 
+      <p>These tiebreaker rules follow the order of precedence laid above. For example, to use the Citizenship Test, the other 3 tests <b>must</b> have all been tried, and tied. In the event that the 4th test (Citizenship) fails (either due to the individual holding none OR both of the Contracting States' citizenship), the individual's tax residence shall be decided mutually between the tax authority of the two countries. 
+      <p>As most Canadian students usually have a parent/guardian’s house to return to in Canada, they would generally be considered to be <b>factual residents</b> for Canadian tax purposes.</p> 
       <p>As a factual resident, <b>your income – Canadian and foreign – would be taxed as if you never left Canada</b>. You would continue to pay any applicable federal and provincial taxes. To reduce double taxation, if you paid taxes abroad, you may be able to use <b>Foreign Tax Credits</b> to offset your Canadian taxes. You continue to be eligible for benefits 'regular' Canadian residents receive, such as the GST/HST credit.</p>
       <p>Should the tie-breaker rules consider you to be a resident in the foreign jurisdiction, ITA 250(5) states that you will be considered to be a <b>deemed non-resident</b> for Canadian tax purposes.</p>
       <p>Whether you are a factual resident or deemed non-resident, while you study abroad, you are still eligible for the <b>Tuition Tax Credit</b> (subject to the conditions described earlier), provided your school certifies the amount paid – <b>converted to CAD</b> – on <b>Form TL11</b>. However, you cannot claim benefits that are reserved for Canadian residents, such as the GST/HST credit.</p>
