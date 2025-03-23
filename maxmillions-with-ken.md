@@ -1,7 +1,7 @@
 ---
 title: MaxMillions with Ken
 layout: landing
-description: 'Your premier source for vetted and up-to-date (and free) financial advice & news'
+description: 'Your premier source for vetted and up-to-date financial advice & news'
 image: assets/images/pic16.jpg
 nav-menu: true
 show_tile: true
