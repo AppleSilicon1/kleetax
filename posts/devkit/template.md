@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tax Season
-description: What's new for 2025
+title: 'Tax Season'
+description: 
 image: assets/images/pic06.jpg
 nav-menu: false
 show_tile: false
@@ -20,7 +20,7 @@ show_tile: false
 <!-- Credits -->
 <div class="row">
 	<div class="12u">
-		<p>By: <b>Ken Lee</b> | KLee Tax <br> Published: 11 Jan 2025 9:41AM EST (Updated 11 Jan 2025 10:41PM EST)</p>
+		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: 11 Jan 2025 4:00AM EST (Updated 11 Jan 2025 4:XXAM EST)</p>
 	</div>
 </div>
 
@@ -37,6 +37,3 @@ show_tile: false
       <p>Of note, LeBlanc's proposed changes must clear the House of Commons and Senate before coming into force. He is expected to introduce the Bill to amend the <i>Income Tax Act</i> on the next sitting of the House of Commons. LeBlanc replaced outgoing Finance Minister and Deputy Prime Minister Chrystia Freeland after her sudden resignation late last year. LeBlanc's office on Parliment Hill has not responded to our request for comment as of writing this article.</p> 
       <p>This is a developing story. More to follow.</p>
       <p>(Test article)</p>
-	  </div>
-  </div>
-</section>
