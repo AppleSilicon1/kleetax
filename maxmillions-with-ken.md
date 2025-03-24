@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/03-24-us-can-tariffs" class="image">
+			<img src="{% link assets/images/pic19.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: On Guard for Thee - US Tariffs and the Road Ahead for Canada</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 24 March 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/03-24-us-can-tariffs" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/03-10-study-party-taxes" class="image">
 			<img src="{% link assets/images/pic18.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Study, Party, Taxes? The 101 on Student Taxes</h3>
+					<h3>Study, Party, Taxes? The 101 on Student Taxes</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 10 March 2025 4:49AM EST</p>
 				<ul class="actions">
