@@ -31,7 +31,6 @@ show_tile: false
   <div class="row">
 	  <div class="12u">
       <p>Photo Credit: UBC</p>
-      <p><b>**FOR DEVELOPMENT PURPOSES ONLY. NOT FOR PUBLIC VIEWING**</b></p>
 		  <p>Good morning Toronto! On 1 February 2025, US President Donald Trump signed <b><a href="https://www.federalregister.gov/documents/2025/02/07/2025-02406/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-northern-border">Executive Order 14193</a></b>, Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border. As Canadian businesses and consumers alike brace for the impact of these measures, today, we will look at how the new tariffs function, what effect they will have, and what we can do to lessen their impact.</p>
       <p><b>Tariffs</b> are a form of taxes that are paid to the government on imported goods. In the US, the list of goods subject to tariffs are listed on the <b>Harmonized Tariff Schedule (HTS)</b>. The executive order will apply a tariff of:</p>
       <ul>
