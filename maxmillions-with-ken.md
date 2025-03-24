@@ -54,7 +54,7 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<SSsection>
+	<section>
 		<a href="/posts/2025/02-24-new-tax-changes" class="image">
 			<img src="{% link assets/images/pic17.jpg %}" alt="" data-position="" />
 		</a>
