@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/04-07-rrsp" class="image">
+			<img src="{% link assets/images/pic20.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: RRSPs - Really Radical Savings Plan?</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 7 April 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/04-07-rrsp" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/03-24-us-can-tariffs" class="image">
 			<img src="{% link assets/images/pic19.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: On Guard for Thee - US Tariffs and the Road Ahead for Canada</h3>
+					<h3>On Guard for Thee - US Tariffs and the Road Ahead for Canada</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 24 March 2025 4:00AM EST</p>
 				<ul class="actions">
