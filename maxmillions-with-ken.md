@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/04-11-t1198" class="image">
+			<img src="{% link assets/images/pic21.jpeg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Form T1198: A technical interpretation of QRLSPs?</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 11 April 2025 4:55PM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/04-11-t1198" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/04-07-rrsp" class="image">
 			<img src="{% link assets/images/pic20.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: RRSPs - Really Radical Savings Plan?</h3>
+					<h3>RRSPs - Really Radical Savings Plan?</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 7 April 2025 4:00AM EST</p>
 				<ul class="actions">
