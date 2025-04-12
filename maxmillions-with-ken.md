@@ -29,7 +29,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Form T1198: A Technical Interpretation of QRLSPs</h3>
+					<h3>NEW: Form T1198 - A Technical Interpretation of QRLSPs</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 11 April 2025 4:55PM EST</p>
 				<ul class="actions">
@@ -45,7 +45,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>RRSPs - Really Radical Savings Plan?</h3>
+					<h3>RRSPs: Really Radical Savings Plan?</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 7 April 2025 4:00AM EST</p>
 				<ul class="actions">
@@ -61,7 +61,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>On Guard for Thee - US Tariffs and the Road Ahead for Canada</h3>
+					<h3>On Guard for Thee: US Tariffs and the Road Ahead for Canada</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 24 March 2025 4:00AM EST</p>
 				<ul class="actions">
