@@ -16,7 +16,7 @@ show_tile: true
 		<header class="major">
 			<h2>Quoi?</h2>
 		</header>
-		<p>Welcome to my blog! Every other Monday, I post an article about various tax and financial topics on the forefront of Canadian news.</p>
+		<p><b>MaxMillions with Ken</b> is a biweekly publication, released every other Monday. Join Ken for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases. Each article addresses a tax or financial topic important to Canadians.</p>
 	</div>
 </section>
 

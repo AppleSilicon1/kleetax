@@ -1,10 +1,10 @@
 # site settings
-title: Ken
-subtitle: Lee
+title: KLee Tax
+subtitle: 
 email: admin@kleetax.ca
-description: Life? Busy. Hotel? Trivago. Taxes? <strong>Right here</strong>.
-baseurl: # the subpath of your site, e.g. /blog
-url: https://kleetax.ca/ # the base hostname & protocol for your site
+description: 'Life? Busy. Hotel? Trivago. Taxes? <em>Right here</em>.'
+baseurl: 
+url: https://kleetax.ca/ 
 author: 
 street_address: Anytime you want, you got it;
 city: Anywhere you want, you got it.
