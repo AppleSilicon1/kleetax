@@ -29,17 +29,15 @@ nav-menu: true
 		<h3>Corporate (T2)</h3>
 		<p>Running a business or nonprofit? We prepare financial statements (in accordance with Canadian GAAP or ASNPO), file T2 (or T2SHORT) corporate tax returns, and handle your Annual Filings for Corporations Canada.</p>
 		<p>Not incorporated yet? We also assist with filing incorporation paperwork and drafting bylaws, helping your organization start on the right foot.</p>
-		<p>From great business ideas to giving back to the community, we understand the unique challenges that corporations face - and look forward to putting you on the right track towards your journey of success. . 
+		<p>From great business ideas to giving back to the community, we understand the unique challenges that corporations face - and look forward to putting you on the right track towards your journey of success.</p>
 	</div>
-</div>
-<div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Financial Planning</h3>
 		<p>No bank account? No clue what to do with your hard earned dollars? Got a tax refund? <b>NO PROBLEM!</b> We'll help you find personalized solutions for your money, maximizing returns and minimizing risk - all tailored to your individual goals and risk tolerances.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>MaxMillions with Ken</h3>
-		<p>Every two weeks, we break down Canadian tax and financial policy in a clear and accessible way. From students trying to understand the basics to fellow tax preparers looking for a refresher, we are your go-to resource for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases. </p>
+		<p>Every two weeks, we break down Canadian tax and financial policy in a clear and accessible way. From students trying to understand the basics to fellow tax preparers looking for a refresher, we are your go-to resource for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases.</p>
 	</div>
 </div>
 
@@ -52,7 +50,7 @@ nav-menu: true
     		<li>Your information will be <b>protected</b> and treated with <b>utmost privacy</b>. It will not be disclosed without your consent or knowledge.</li>
    			<li>Any information and advice given to you is <b>true</b>, to the best of my knowledge.</li>
     		<li>We will <b>not</b> benefit (in the form of commissions, or otherwise) from any and all products and services we recommend to you in the course of our duties.</li>
-    		<li>To try our <b>best</b> for all my clients. <b>Always.</b></li>
+    		<li>To try our <b>best</b> for all of our clients. <b>Always.</b></li>
 		</ul>
 	</div>
 </div>
