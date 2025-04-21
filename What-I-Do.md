@@ -18,17 +18,28 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="services">My Services</h2>
-<p> At KLee Tax, my #1 priority is your financial security. With my experience, I hope to make your money work for <b>you</b>. I primarily specialize in:  
+<p> At KLee Tax, our #1 priority is your financial security. With hands-on experience and a passion for taxation, We're here to make your money work for <b>you</b>. Here's a look at what we do:  
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Tax Preparation</h3>
-		<p>No clue where to start with your taxes? Need your tax return done yesterday? No worries, I can prepare the Canadian & Provincial portion of your Personal Income Tax Returns. Benefit from a thorough review of your tax situation, and take advantage of my knowledge of Canada's tax system to minimize taxes paid and maximize refunds.</p>
-		<p>Last year, I got my clients an average of a <b>$300</b> tax refund.</p>
-		<p>The best part? <b>Free 72-hour turnarounds</b> during peak season (Feb 21 - Apr 30).</p>
+		<h3>Individual (T1)</h3>
+		<p>No clue where to start with your taxes? Need your return done yesterday? No worries - We prepare the Canadian & Provincial portion of your Personal Income Tax Return. We will do a full review of your tax situation, using our knowledge of Canada's tax system to minimize taxes and maximize refunds. Whether you're working your first job claiming a refund or a self-employed entrepreneur trying to calculate CCA on your capital assets, <b>we've got you covered.</b></p>
+		<p>This year, we've had the pleasuring of serving <b>41</b> clients, with <b>average tax refunds of $250 per client.</b></p>
 	</div>
 	<div class="6u$ 12u$(small)">
+		<h3>Corporate (T2)</h3>
+		<p>Running a business or nonprofit? We prepare financial statements (in accordance with Canadian GAAP or ASNPO), file T2 (or T2SHORT) corporate tax returns, and handle your Annual Filings for Corporations Canada.</p>
+		<p>Not incorporated yet? We also assist with filing incorporation paperwork and drafting bylaws, helping your organization start on the right foot.</p>
+		<p>From great business ideas to giving back to the community, we understand the unique challenges that corporations face - and look forward to putting you on the right track towards your journey of success. . 
+	</div>
+</div>
+<div class="row">
+	<div class="6u 12u$(small)">
 		<h3>Financial Planning</h3>
-		<p>No bank account? No clue what to do with your hard earned dollars? Got a tax refund? <b>NO PROBLEM!</b> I can help you find solutions for your money, maximizing returns and minimizing risk - all tailored to your individual goals and risk tolerances.</p>
+		<p>No bank account? No clue what to do with your hard earned dollars? Got a tax refund? <b>NO PROBLEM!</b> We'll help you find personalized solutions for your money, maximizing returns and minimizing risk - all tailored to your individual goals and risk tolerances.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>MaxMillions with Ken</h3>
+		<p>Every two weeks, we break down Canadian tax and financial policy in a clear and accessible way. From students trying to understand the basics to fellow tax preparers looking for a refresher, we are your go-to resource for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases. </p>
 	</div>
 </div>
 
@@ -36,12 +47,12 @@ nav-menu: true
 
 <div class="row">
 	<div class="12u">
-		<h2 id="promise">I promise that</h2>
+		<h2 id="promise">We promise that</h2>
 		<ul>
     		<li>Your information will be <b>protected</b> and treated with <b>utmost privacy</b>. It will not be disclosed without your consent or knowledge.</li>
    			<li>Any information and advice given to you is <b>true</b>, to the best of my knowledge.</li>
-    		<li>I will <b>not</b> benefit (in the form of commissions, or otherwise) from any and all products and services I recommend to you.</li>
-    		<li>To try my <b>best</b> for all my clients. <b>Always.</b></li>
+    		<li>We will <b>not</b> benefit (in the form of commissions, or otherwise) from any and all products and services we recommend to you in the course of our duties.</li>
+    		<li>To try our <b>best</b> for all my clients. <b>Always.</b></li>
 		</ul>
 	</div>
 </div>
@@ -52,7 +63,7 @@ nav-menu: true
     <div class="row">
         <div class="12u">
             <h2 id="like">Like what you see?</h2>
-            <p>I would be happy to help you! Use the contact form below or send me an email! I will be in touch shortly :)</p>
+            <p>We would be happy to help you! Use the contact form below or send us an email! Ken will be in touch shortly :)</p>
             <ul class="actions">
                 <li><a href="#footer" class="button next">Contact me!</a></li>
             </ul>
