@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What I Do
-description: My services and promise to you
+title: What We Do
+description: Our services and promise to you
 image: assets/images/pic14.jpg
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>What I Do</h1>
+			<h1>What We Do</h1>
 		</header>
 
 <!-- Content -->
@@ -63,7 +63,7 @@ nav-menu: true
             <h2 id="like">Like what you see?</h2>
             <p>We would be happy to help you! Use the contact form below or send us an email! Ken will be in touch shortly :)</p>
             <ul class="actions">
-                <li><a href="#footer" class="button next">Contact me!</a></li>
+                <li><a href="#footer" class="button next">Contact us!</a></li>
             </ul>
         </div>
     </div>
