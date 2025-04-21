@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/04-21-fhsa" class="image">
+			<img src="{% link assets/images/pic22.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Registered Plans - From First Home to Tax Wins</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 21 April 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/04-21-fhsa" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/04-11-t1198" class="image">
 			<img src="{% link assets/images/pic21.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Form T1198 - A Technical Interpretation of QRLSPs</h3>
+					<h3>Form T1198: A Technical Interpretation of QRLSPs</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 11 April 2025 4:55PM EST</p>
 				<ul class="actions">
