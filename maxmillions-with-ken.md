@@ -1,5 +1,5 @@
 ---
-title: maxMillions with Ken
+title: MaxMillions with Ken
 layout: landing
 description: 'Your premier source for trusted tax advice and up-to-date financial news'
 image: assets/images/pic16.jpg
