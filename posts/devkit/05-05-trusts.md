@@ -2,7 +2,7 @@
 layout: post
 title: 'In Trusts We Trust: Not Just For the Rich
 description: 
-image: assets/images/pic23.jpeg
+image: assets/images/pic22.jpeg
 nav-menu: false
 show_tile: false
 ---
