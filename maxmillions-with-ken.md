@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/05-05-intro-to-trusts" class="image">
+			<img src="{% link assets/images/pic23.jpeg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: In Trusts We Trust - Not Just For the Rich</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 5 May 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/05-05-intro-to-trusts" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/04-21-fhsa" class="image">
 			<img src="{% link assets/images/pic22.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Registered Plans - From First Home to Tax Wins</h3>
+					<h3>Registered Plans: From First Home to Tax Wins</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 21 April 2025 4:00AM EST</p>
 				<ul class="actions">

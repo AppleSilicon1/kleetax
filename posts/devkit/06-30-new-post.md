@@ -31,4 +31,6 @@ show_tile: false
 <section>
   <div class="row">
 	  <div class="12u">
-		<p>Good morning Toronto! XXX
+    <p>--------</p>
+    <p><b>A bit about us</b>: <b>KLee Tax</b> specializes in filing tax returns for individuals, businesses, and corporations. Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that <b>KLee Tax</b> will be there for your tax needs, when and where you need us.</p>
+    <p><b>Unsure of where to start? Be sure to reach out below!</b></p>
