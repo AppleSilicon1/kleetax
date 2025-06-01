@@ -31,6 +31,7 @@ show_tile: false
 <section>
   <div class="row">
     <div class="12u">
+      <p><i>All references to the ‘Act’ mean the Income Tax Act, RSC 1985, c. 1 (5th Supp.), as amended. All references to the ‘Regulations’ mean the Income Tax Regulations. The following should not be construed as legal nor tax advice. Consultation with your usual tax/legal professional is advised.</i></p>
 		  <p>Good morning Toronto! Here's what's breaking news on Canada's financial forefront this week. </p>
       <p>On <b>Monday, 24 February 2025</b> at 6AM EST, the NETFILE and eFILE services will open for individuals and tax professionals to file their T1 (Personal Income Tax and Benefit Return) for the 2024 Tax Year. Here's what's new:</p>
       <p>There are minor bumps to the <b>Basic Personal Amount</b> (the amount of money you can make before being taxed), to <b>$16,129</b> and <b>$12,747</b> for the <b>federal</b> and <b>provincial</b> portion of your tax return respectively. This year, the TFSA limit remains unchanged, at <b>$7000</b>.</p>
