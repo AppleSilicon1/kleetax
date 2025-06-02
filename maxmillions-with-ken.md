@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/06-02-cca" class="image">
+			<img src="{% link assets/images/pic25.jpeg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: CCA - Creatively Claimed Allowances</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 2 June 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/06-02-cca" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/05-19-trust-taxes" class="image">
 			<img src="{% link assets/images/pic24.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: In Trusts We Trust - Limits of the Law</h3>
+					<h3>In Trusts We Trust: Limits of the Law</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 19 May 2025 4:00AM EST</p>
 				<ul class="actions">
