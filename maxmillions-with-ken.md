@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/06-30-lottery" class="image">
+			<img src="{% link assets/images/pic27.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Winning Big - Is Luck Tax-Free?</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 30 June 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/06-30-lottery" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/06-16-resp" class="image">
 			<img src="{% link assets/images/pic26.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: RESP - Really Essential Schooling Plan</h3>
+					<h3>RESP: Really Essential Schooling Plan</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 16 June 2025 4:00AM EST</p>
 				<ul class="actions">
