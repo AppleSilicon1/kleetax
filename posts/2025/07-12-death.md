@@ -56,11 +56,13 @@ show_tile: false
           <td>Income from the taxpayer's business, provided the taypayer was a sole proprietor or partner AND the fiscal year-end of the business is not December 31*</td>
           <td>From the date of the fiscal year-end of business to date of death</td>
           <td>Same date as Final Return due date</td>
+          <td>Same date as Final Return due date</td>
         </tr>
         <tr>
           <td>GRE Income</td>
           <td>Income from the Graduated Rate Estate of another taxpayer**</td>
           <td>From date the fiscal year-end of the GRE to date of death</td>
+          <td>Same date as Final Return due date</td>
           <td>Same date as Final Return due date</td>
         </tr>
       </tbody>
