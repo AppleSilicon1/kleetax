@@ -16,12 +16,28 @@ show_tile: true
 		<header class="major">
 			<h2>Quoi?</h2>
 		</header>
-		<p><b>MaxMillions with Ken</b> is a biweekly publication, released every other Monday. Join Ken for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases. Each article addresses a tax or financial topic important to Canadians.</p>
+		<p><b>MaxMillions with Ken</b> is a biweekly publication, released every other Monday - rain or shine. Join Ken for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases. Articles address tax or financial topics important to Canadians and are published in series. A main article broadly surveys a theme, with subsequent articles focusing on specalized aspects of said theme.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	<section>
+		<a href="/posts/2025/07-14-md1" class="image">
+			<img src="{% link assets/images/pic28.png %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Mortality and Tax - The Full Accounting of Death</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 14 July 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/07-14-md1" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="/posts/2025/06-30-lottery" class="image">
 			<img src="{% link assets/images/pic27.jpg %}" alt="" data-position="" />
@@ -29,7 +45,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Winning Big - Is Luck Tax-Free?</h3>
+					<h3>Winning Big: Is Luck Tax-Free?</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 30 June 2025 4:00AM EST</p>
 				<ul class="actions">
