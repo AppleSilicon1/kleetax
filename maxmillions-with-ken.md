@@ -16,7 +16,7 @@ show_tile: true
 		<header class="major">
 			<h2>Quoi?</h2>
 		</header>
-		<p><b>MaxMillions with Ken</b> is a biweekly publication, released every other Monday - rain or shine. Join Ken for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases. Articles address tax or financial topics important to Canadians and are published in series. A main article broadly surveys a theme, with subsequent articles focusing on specalized aspects of said theme.</p>
+		<p><b>MaxMillions with Ken</b> is a biweekly publication, released every other Monday - rain or shine. Join Ken for trustworthy and accessible reporting, commentary, and analysis on tax laws, regulations, interpretations, and cases. Articles address tax or financial topics important to Canadians and are published in series. A main article broadly surveys a theme, with subsequent articles focusing on specialized aspects of said theme.</p>
 	</div>
 </section>
 
