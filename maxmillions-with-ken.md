@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/07-28-md2" class="image">
+			<img src="{% link assets/images/pic29.jpeg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Mortality and Tax - Leaving More, Owing Less</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 28 July 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/07-28-md2" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/07-14-md1" class="image">
 			<img src="{% link assets/images/pic28.png %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Mortality and Tax - The Full Accounting of Death</h3>
+					<h3>Mortality and Tax: The Full Accounting of Death</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 14 July 2025 4:00AM EST</p>
 				<ul class="actions">
