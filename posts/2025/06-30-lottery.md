@@ -45,8 +45,8 @@ show_tile: false
       <li>If the payment was <b>for goods, services</b> or anything else provided by the taxpayer; </li>
       <li>If the payment was not earned by the taxpayer <b>as a result of any activity or pursuit of gain</b> by said taxpayer</li>
     </ul>
-    <p>If a taxpayer can answer ‘yes’ to any of the above factors, there is a strong possibility that the funds are NOT a windfall. </p>
-    <p>In the conventional sense, most lotteries usually offer money as prizes. In these cases, while the principal amount is <b>neither reportable nor taxable income</b>, any income (such as interest or investment income) generated ON that principal <b>IS taxable</b></p>
+    <p>If a taxpayer can answer ‘yes’ to any of the above factors, <b>there is a strong possibility that the funds are NOT a windfall</b>. </p>
+    <p>In the conventional sense, most lotteries usually offer money as prizes. In these cases, while the principal amount is <b>neither reportable nor taxable income</b>, any income (such as interest or investment income) generated ON that principal <b>IS taxable</b>.</p>
     <p>However, depending on the specifics of the lottery, physical property like cars/houses is commonly offered as prizes. While the initial value of these assets is untaxed, any <b>appreciation/depreciation</b> ARE subject to capital gains/loss provisions. As a reminder, capital gains/losses are added/deducted to income at a <b>50% inclusion rate</b>. Homes won as part of a lottery do still qualify for the <b>Principal Residence Exemption</b> if the home was designated as a principal residence and inhabited by the taxpayer or a member of their immediate family. If the exemption applies, then no capital gains tax is payable. </p>
     <div class="box">
 	    <p><b>Example 1</b></p>
