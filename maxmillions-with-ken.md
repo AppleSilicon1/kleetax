@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/09-08-md4" class="image">
+			<img src="{% link assets/images/pic31.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Mortality and Tax - The Ultimate Handoff</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 8 September 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/09-08-md4" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/08-25-md3" class="image">
 			<img src="{% link assets/images/pic30.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Mortality and Tax - Freezing Time and Growth</h3>
+					<h3>Mortality and Tax: Freezing Time and Growth</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 25 August 2025 4:00AM EST</p>
 				<ul class="actions">
