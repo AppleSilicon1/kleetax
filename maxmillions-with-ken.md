@@ -29,7 +29,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Mortality and Tax - The Ultimate Handoff</h3>
+					<h3>NEW: Mortality and Tax - The Ultimate Hand-off</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 8 September 2025 4:00AM EST</p>
 				<ul class="actions">
@@ -61,7 +61,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Mortality and Tax:Leaving More, Owing Less</h3>
+					<h3>Mortality and Tax: Leaving More, Owing Less</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 28 July 2025 4:00AM EST</p>
 				<ul class="actions">
