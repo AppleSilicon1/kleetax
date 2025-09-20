@@ -4,6 +4,7 @@ title: 'Profit and Policy: Salary V. Dividend'
 description: 
 image: assets/images/pic31.jpg
 credits: XXXX
+datetime: 4 October 2025 4:00AM EST
 nav-menu: false
 show_tile: false
 ---
@@ -11,7 +12,6 @@ show_tile: false
 <!-- Content -->
 <div class="row">
 	<div class="12u">
-    <p><i>Photo Credit: Western CPE</i></p>
     <p><i>All references to a spouse include common-law partners. All references to the ‘Act’ or the 'ITA' mean the Income Tax Act, RSC 1985, c. 1 (5th Supp.), as amended. All references to the ‘Regulations’ mean the Income Tax Regulations. The following should not be construed as legal nor tax advice. Consultation with your usual tax/legal professional is advised. Please contact us to discuss the contents of the article herein.</i></p>
     <div class="table-wrapper">
     <table>
@@ -127,6 +127,17 @@ show_tile: false
       </div> 
       <p>Commentary here.</p>
     </div>
+    <p>As with many other jurisdictions, wills generally need to undergo <b>probate</b>, the process where a will is validated by a court and when the estate trustee(s) (executor) is recognized. It is generally needed if the deceased owned real estate, other assets, and/or there are concerns/conflicts regarding the validity of the will/executor. If the deceased died <b>intestate</b> (without a will), an estate trustee(s) is appointed as part of the normal probate process. Should intestacy occur, assets are divided in accordance with SLRA provisions. To that end, Ontario also charges probate fees (<b>Estate Administration Tax</b>), equivalent to <b>1.5%</b> of the portion of the estate valued above $50k.</p> 
+    <p>One of the key duties of the estate trustee(s) is to ensure that any and all debts/liabilities are <b>fully discharged</b> (paid) before distributing any monies or assets to beneficiaries. Specifically, there is an <b>order of priority</b> for debts to be paid, as follows:</p>
+    <ul>
+      <li>Estate administration/probate fees</li>
+      <li>Funeral Expenses</li>
+      <li>Secured creditors (such as car loans and mortgages)</li>
+      <li>Tax debts owed to the CRA/provinces</li>
+      <li>Unsecured creditors (such as credit cards)</li>
+      <li>Beneficiaries list in the will/according to law</li>
+    </ul>
+    <p>While debts are not inheritable*, the trustee(s) can be held <b>personally responsible for parts of the debt if they improperly distribute assets</b>, up to the amount that was wrongly distributed. If the estate does not have the funds to discharge all its debts, then the estate is <b>insolvent</b>, and the beneficiaries receive nothing. </p>
     <p>--------</p>
     <p><b>Too complicated? No worries! KLee Tax</b> specializes in filing tax returns and tax advisory for individuals, businesses, and corporations. Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that <b>KLee Tax</b> will be there for your tax needs, when and where you need us.</p>
     <p><b>Contact us below for a consultation or to discuss the contents of this article!</b></p>
