@@ -13,7 +13,7 @@
 <div id="main" class="alt">
 
 <style>
-  image.main {
+  image main {
 	margin-bottom: 0px;
   }
  
@@ -57,7 +57,7 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		{% if page.image %}<span class="image.main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{% if page.image %}<p class="align-center"><i>Photo Credit: {{page.credits}}</i></p>{% endif %}
 		<hr class="major"/>
 		<p>By: <b>Ken Lee</b> | KLee Tax and Financial Services Co.<br> Published: {{page.datetime}}</p>
