@@ -69,9 +69,10 @@ show_tile: false
       </tbody>
     </table>
     </div>
+    <p>Sophie receives $10k, each, in BOTH eligible and non-eligible dividends from Opco. Her marginal tax rate (tax paid on the next dollar of income) is about 26% federal + 12% provincial (ON). Determine her tax liability from the dividends
     <div class="box">
 	    <p><b>Example 1</b></p>
-      <p>Sophie receives $10k, each, in BOTH eligible and non-eligible dividends from Opco. Her marginal tax rate (tax paid on the next dollar of income) is about 26% federal + 12% provincial (ON). Determine her tax liability from the dividends</p>
+      <p>Sophie receives $10k, each, in BOTH eligible and non-eligible dividends from Opco. Her marginal tax rate (tax paid on the next dollar of income) is about 26% federal + 12% provincial (ON). Determine her tax liability from X.</p>
         <div class="table-wrapper">
       <table class="boxtable">
         <thead>
