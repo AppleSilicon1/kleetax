@@ -52,8 +52,7 @@ img {
 
 		&.main {
 			display: block;
-			margin-top: (_size(element-margin) * 1.25);
-			margin-bottom: 0px;
+			margin: 10px 0px 0px 0px;
 			width: 100%;
 
 			img {
@@ -61,7 +60,7 @@ img {
 			}
 
 			@include breakpoint(small) {
-				margin: (_size(element-margin) * 0.75) 0 0 0;
+				margin: 10px 0px 0px 0px;
 			}
 		}
 	}
