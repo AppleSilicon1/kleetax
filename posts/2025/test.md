@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post
 title: 'Profit and Policy: Salary V. Dividend'
 description: 
 image: assets/images/pic31.jpg
