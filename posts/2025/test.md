@@ -1,0 +1,134 @@
+---
+layout: post2
+title: 'Profit and Policy: Salary V. Dividend'
+description: 
+image: assets/images/pic31.jpg
+credits: XXXX
+nav-menu: false
+show_tile: false
+---
+
+<!-- Content -->
+<div class="row">
+	<div class="12u">
+    <p><i>Photo Credit: Western CPE</i></p>
+    <p><i>All references to a spouse include common-law partners. All references to the ‘Act’ or the 'ITA' mean the Income Tax Act, RSC 1985, c. 1 (5th Supp.), as amended. All references to the ‘Regulations’ mean the Income Tax Regulations. The following should not be construed as legal nor tax advice. Consultation with your usual tax/legal professional is advised. Please contact us to discuss the contents of the article herein.</i></p>
+    <div class="table-wrapper">
+    <table>
+      <thead>
+        <tr>
+          <th>2025 Taxable Income (<i>i</i>)</th>
+          <th>Salary Tax Rates</th>
+          <th>Eligible Dividends</th>
+          <th>Non-Eligible Dividends</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>$ < <i>i</i> ≤ $52,886</td>
+          <td>19.55%</td>
+          <td>-7.55%</td>
+          <td>8.66%</td>
+        </tr>
+        <tr>
+          <td>$52,886 < <i>i</i> ≤ $57,375</td>
+          <td>23.65%</td>
+          <td>-1.89%</td>
+          <td>13.38%</td>
+        </tr>
+        <tr>
+          <td>$57,375 < <i>i</i> ≤ $93,132</td>
+          <td>29.65%</td>
+          <td>6.39%</td>
+          <td>20.28%</td>
+        </tr>
+        <tr>
+          <td>$93,132 < <i>i</i> ≤ $105,775</td>
+          <td>31.48%</td>
+          <td>8.92%</td>
+          <td>22.38%</td>
+        </tr>
+        <tr>
+          <td>$105,775 < <i>i</i> ≤ $109,727</td>
+          <td>33.89%</td>
+          <td>12.24%</td>
+          <td>25.16%</td>
+        </tr>
+        <tr>
+          <td> $109,727 < <i>i</i> ≤ $114,750</td>
+          <td>43.41%</td>
+          <td>25.38%</td>
+          <td>36.10%</td>
+        </tr>
+        <tr>
+          <td>$114,750 < <i>i</i> < $150,000</td>
+          <td>44.97%</td>
+          <td>27.53%</td>
+          <td>37.90%</td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+    <div class="box">
+	    <p><b>Example 1</b></p>
+      <p>Sophie receives $10k, each, in BOTH eligible and non-eligible dividends from Opco. Her marginal tax rate (tax paid on the next dollar of income) is about 26% federal + 12% provincial (ON). Determine her tax liability from the dividends</p>
+        <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+            <th>Eligible dividend</th>
+            <th>Non-eligible dividend</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>A. Amount recieved</td>
+            <td>$10,000</td>
+            <td>$10,000</td>
+          </tr>
+          <tr>
+            <td>B. Grossed-up (Taxable) amount</td>
+            <td>$13,800</td>
+            <td>$11,800</td>
+          </tr>
+          <tr>
+            <td>C. Fed. Taxes (B x 26%)</td>
+            <td>$3,588</td>
+            <td>$3,068</td>
+          </tr>
+          <tr>
+            <td>D. <b>LESS</b> Fed. Dividend Tax Credit</td>
+            <td>$2,070</td>
+            <td>$1,298</td>
+          </tr>
+          <tr>
+            <td>E. Fed. Tax Liability (C-D)</td>
+            <td><b>$1,518</b></td>
+            <td><b>$1,770</b></td>
+          </tr>
+          <tr>
+            <td>F. Prov. Taxes (B x 12%)</td>
+            <td>$1,656</td>
+            <td>$1,416</td>
+          </tr>
+          <tr>
+            <td>G. <b>LESS</b> Prov. Dividend Tax Credit</td>
+            <td>$1,380</td>
+            <td>$354</td>
+          </tr>
+          <tr>
+            <td>H. Prov. Tax Liability (F - G)</td>
+            <td><b>$276</b></td>
+            <td><b>$1,062</b></td>
+          </tr>
+        </tbody>
+      </table>
+      </div> 
+      <p>Commentary here.</p>
+    </div>
+    <p>--------</p>
+    <p><b>Too complicated? No worries! KLee Tax</b> specializes in filing tax returns and tax advisory for individuals, businesses, and corporations. Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that <b>KLee Tax</b> will be there for your tax needs, when and where you need us.</p>
+    <p><b>Contact us below for a consultation or to discuss the contents of this article!</b></p>
+  </div>
+</div>
