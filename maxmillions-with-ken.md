@@ -24,7 +24,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/posts/2025/09-22-pp2" class="image">
-			<img src="{% link assets/images/pic32.jpg %}" alt="" data-position="" />
+			<img src="{% link assets/images/pic32.png %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -45,7 +45,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Mortality and Tax - The Ultimate Hand-off</h3>
+					<h3>Mortality and Tax: The Ultimate Hand-off</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 8 September 2025 4:00AM EST</p>
 				<ul class="actions">
