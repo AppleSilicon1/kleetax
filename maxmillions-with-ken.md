@@ -23,6 +23,22 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/09-22-pp2" class="image">
+			<img src="{% link assets/images/pic32.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Profit and Policy - Starting with the Right Structure</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 22 September 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/09-22-pp1" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/09-08-md4" class="image">
 			<img src="{% link assets/images/pic31.jpg %}" alt="" data-position="" />
 		</a>
