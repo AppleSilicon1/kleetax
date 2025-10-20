@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/10-20-pp3" class="image">
+			<img src="{% link assets/images/pic36.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Profit and Policy - Navigating the Lifetime Capital Gains Exemption</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 20 October 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/10-20-pp3" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/10-06-pp2" class="image">
 			<img src="{% link assets/images/pic35.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Profit and Policy - To Salary or Not to Salary?</h3>
+					<h3>Profit and Policy: To Salary or Not to Salary?</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 6 October 2025 4:00AM EST</p>
 				<ul class="actions">
