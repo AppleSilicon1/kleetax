@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2025/11-17-pp5" class="image">
+			<img src="{% link assets/images/pic38.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Profit and Policy - Are you a PSB?</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 17 November 2025 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2025/11-17-pp5" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2025/11-03-pp4" class="image">
 			<img src="{% link assets/images/pic37.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Profit and Policy - Unpacking the Small Business Deduction</h3>
+					<h3>Profit and Policy - Unpacking the Small Business Deduction</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 3 November 2025 4:00AM EST</p>
 				<ul class="actions">
