@@ -23,8 +23,8 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="/posts/2025/12-15-pk2" class="image">
-			<img src="{% link assets/images/pic40.jpg %}" alt="" data-position="" />
+		<a href="/posts/2026/01-12-pk3" class="image">
+			<img src="{% link assets/images/pic41.jpeg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -33,7 +33,7 @@ show_tile: true
 				</header>
 				<p>By: Ken Lee<br>Published: 12 Janurary 2026 11:00PM EST</p>
 				<ul class="actions">
-					<li><a href="/posts/2025/12-15-pk2" class="button">Read me!</a></li>
+					<li><a href="/posts/2026/01-12-pk3" class="button">Read me!</a></li>
 				</ul>
 			</div>
 		</div>
