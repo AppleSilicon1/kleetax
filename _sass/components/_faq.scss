@@ -1,0 +1,86 @@
+/* FAQ */
+
+.faq {
+  margin: 0 0 _size(element-margin) 0;
+
+  .faq-item {
+    border: solid 1px _palette(border);
+    margin-bottom: _size(element-margin);
+    @include vendor('transition', 'border-color #{_duration(transition)} ease-in-out');
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &:hover {
+      border-color: _palette(highlight);
+    }
+  }
+
+  // Hide the checkbox
+  .faq-toggle {
+    display: none;
+  }
+
+  .faq-question {
+    @include vendor('transition', 'color #{_duration(transition)} ease-in-out');
+    color: _palette(fg-bold);
+    cursor: pointer;
+    display: block;
+    font-weight: _font(weight-bold);
+    padding: 1.5em 3em 1.5em 1.5em;
+    position: relative;
+
+    &:hover {
+      color: _palette(highlight);
+    }
+
+    // Arrow icon
+    &:after {
+      @include vendor('transition', 'transform #{_duration(transition)} ease-in-out');
+      border-left: 2px solid _palette(fg-bold);
+      border-bottom: 2px solid _palette(fg-bold);
+      content: '';
+      display: block;
+      height: 8px;
+      position: absolute;
+      right: 1.5em;
+      top: 50%;
+      transform: translateY(-50%) rotate(-45deg);
+      width: 8px;
+    }
+
+    &:hover:after {
+      border-color: _palette(highlight);
+    }
+  }
+
+  .faq-answer {
+    @include vendor('transition', (
+      'max-height #{_duration(transition)} ease-in-out',
+      'opacity #{_duration(transition)} ease-in-out',
+      'padding #{_duration(transition)} ease-in-out'
+    ));
+    border-top: solid 1px _palette(border);
+    color: _palette(fg);
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    padding: 0 1.5em;
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // When checked
+  .faq-toggle:checked ~ .faq-question:after {
+    transform: translateY(-25%) rotate(135deg);
+  }
+
+  .faq-toggle:checked ~ .faq-answer {
+    max-height: 500px;
+    opacity: 1;
+    padding: 1.5em;
+  }
+}
