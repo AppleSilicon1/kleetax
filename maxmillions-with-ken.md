@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2026/01-26-ma1" class="image">
+			<img src="{% link assets/images/pic42.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Matriculating Abroad — Understanding Canadian Tax Residency</h3>
+				</header>
+				<p>By: Ken Lee<br>Published: 26 Janurary 2026 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2026/01-26-ma1" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2026/01-12-pk3" class="image">
 			<img src="{% link assets/images/pic41.jpeg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: The Price of Kindness - Enjoy Today, Give Tomorrow</h3>
+					<h3>The Price of Kindness: Enjoy Today, Give Tomorrow</h3>
 				</header>
 				<p>By: Ken Lee<br>Published: 12 Janurary 2026 11:00PM EST</p>
 				<ul class="actions">
