@@ -31,7 +31,7 @@ show_tile: true
 				<header class="major">
 					<h3>NEW: Matriculating Abroad — Understanding Canadian Tax Residency</h3>
 				</header>
-				<p>By: Ken Lee<br>Published: 26 Janurary 2026 4:00AM EST</p>
+				<p>By: Ken Lee, PFA<br>Published: 26 Janurary 2026 4:00AM EST</p>
 				<ul class="actions">
 					<li><a href="/posts/2026/01-26-ma1" class="button">Read me!</a></li>
 				</ul>
