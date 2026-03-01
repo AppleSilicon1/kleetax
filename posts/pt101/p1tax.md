@@ -1,0 +1,204 @@
+---
+layout: post
+title: 'Personal Taxes 101: Canadian Tax System'
+description: 
+image: assets/images/pic43.jpg
+credits: Advisor.ca
+datetime: 9 Feburary 2026 4:00AM EST
+nav-menu: false
+show_tile: false
+---
+
+<!-- Content -->
+<div class="row">
+  <div class="12u">
+  <div class="box_warning">
+	   <p><i><b>Disclosures:</b> I am a PFA in good standing with <a href="https://advocis.ca/"><i>Advocis</i></a> and the <a href="https://iafe.ca/"><i>Institute</i></a>. This article is written purely for informative purposes. The views expressed are my own and do not represent those of any organizations I am affiliated with. The following should not be construed as legal nor tax advice. Consultation with your usual tax/legal professional is advised. Please contact us to discuss the contents of the article herein.</i></p>
+    <p><i>All references to a spouse include common-law partners. All references to the ‘Act’ or the 'ITA' mean the Income Tax Act, RSC 1985, c. 1 (5th Supp.), as amended.</i></p>
+  </div>
+  <p>Good morning Toronto! While we do some things similarly to the United States, our neighbours to the south approach taxation quite differently regarding taxes! Today's article aims to provide a comprehensive overview of the US tax system, residency status, and provisions of the Canada-US Tax Treaty, highlighting key considerations for Canadian residents that intend to study in the US.</p>
+  <p>The US tax system uses several distinct terms from the Canadian tax system, which are summarized below:</p>
+  <div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th><b>Canadian Terminology</b></th>
+        <th><b>US Equivalent</b></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Federal Income Tax</td>
+        <td>Federal Income Tax</td>
+      </tr>
+      <tr>
+        <td>Provincial Income Tax</td>
+        <td>State Income Tax</td>
+      </tr>
+      <tr>
+        <td>Canada Revenue Agency (CRA)</td>
+        <td>Internal Revenue Service (IRS)</td>
+      </tr>
+      <tr>
+        <td>T1 Income Tax Package</td>
+        <td>Form 1040</td>
+      </tr>
+      <tr>
+        <td>T4 slip</td>
+        <td>Form W2</td>
+      </tr>
+      <tr>
+        <td>CPP Contributions</td>
+        <td>Social Security Tax</td>
+      </tr>
+      <tr>
+        <td>EI Premiums</td>
+        <td>Medicare Tax</td>
+      </tr>
+      <tr>
+        <td>OSAP</td>
+        <td>FAFSA</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  <p>A significant variation between our tax systems lies in determining tax residency and liability. For example, if any Canadian resident maintained sufficient residential ties to Canada when absent (assuming they did not avail of any tie-breaker clause), they would be considered a factual resident and fully liable for all worldwide income. In other words, the Canadian tax system is blind to immigration status in considering tax liability. In contrast, citizenship or residence in the US determines tax liability. We shall consider the following statuses:</p>
+  <ul>
+    <li><b>US Citizens (USCs)</b></li>
+    <li><b>Resident Aliens (RAs)</b></li>
+    <li><b>Non-Resident Aliens (NRAs)</b></li>
+  </ul>
+  <p>The US is one of two countries in the world that operate a citizenship-based taxation regime — the other being Eritrea. The effect of this regime is that US citizens are treated as US tax residents. <b>A USC will NEVER be treated as a non-resident</b>, barring renunciation of citizenship. US citizenship is conferred on a <i>jus soli</i> basis, meaning that any individual born in the US — regardless of the parents' status — are USCs.</p>
+  <p>Under US law, an '<b>alien</b>' is anyone who is not a US citizen. An alien is a US resident if they meet either of the below tests:</p>
+  <ul>
+    <li><b>Green Card Test (GCT)</b>: Held Lawful Permanent Residence (LPR) status at any point during the year.</li>
+    <li><b>Substantial Presence Test (SPT)</b>: Spent at least 31 days in the US in the current year AND a weighted total of 183 days over the current year and the two preceding years.</li>
+  </ul>
+  <p>In the context of this article, any individual who holds a student visa (i.e. <b>F-1</b> status) is considered an exempt individual for the SPT. Thus, <b>students</b> will be considered to be '<b>Non-Resident Aliens (NRAs)</b>', who are taxed <b>only on US-source income</b>.</p>
+  <p>USCs and Resident Aliens are taxed in the same manner, both being liable to tax on <b>all worldwide income</b>. In addition, USCs and RAs living abroad are subject to extensive reporting requirements. First, if the aggregate (combined) value of all bank accounts is over US$10k at any point during the year, the taxpayer must file a <b>Report of Foreign Bank and Financial Accounts (FBAR)</b>. Furthermore, those holding financial assets that have an aggregated value of over US$50k must file an information return with the IRS under the <b>Foreign Account Tax Compliance Act (FATCA)</b>. FATCA also compels foreign governments and foreign financial institutions to report accounts held by USCs and RAs to the IRS.</p>
+  <p>While Canada also requires its own tax residents to report foreign assets if their cost of acquiring the asset is over CA$100k under the T1135/T1134 regime, FATCA is significantly more far-reaching due to its arguable intrusion on the sovereignty of foreign jurisdictions. To that end, the powers of the US expand to its tax treaties. As discussed in <a href="https://kleetax.ca/posts/2026/01-26-ma1/"><i>Matriculating Abroad: Understanding Canadian Tax Residency</i></a>, tax treaties have tie-breaker rules which aim to deem an individual who would be considered a tax resident in two jurisdictions to be resident of only one for taxation purposes. With respect to the <b>Canada-US Tax Treaty</b> (herein referred to as the '<b>Treaty</b>'), <b>Article XXIX(2)</b> provides that:</p>
+  <blockquote>Except as provided in paragraph 3, nothing in the Convention shall be construed as preventing [the US] from taxing [...] its citizens [...] as if there were no convention between the United States and Canada with respect to taxes on income and on capital.</blockquote>
+  <p>This '<b>saving clause</b>' of the Treaty specifically prevents USCs from claiming tie-breaker provisions which may assign residency to Canada. This means that a US citizen residing in Canada would, in effect, remain resident in both jurisdictions and be subject to tax on their worldwide income in both jurisdictions. </p>
+  <div class="box">
+	  <p><b>Example 1</b></p>
+    <p>Sophie was born in the US and left when she was young. Today, she is now a Canadian Citizen. Having lived in Canada for almost two decades, she has no residential ties to the US. She is considering a move to the US to attend an undergraduate program, after which she would return to Canada.</p>
+    <ul>
+      <li>By virtue of her US citizenship, she would be considered a US tax resident. Given her strong ties to Canada and intent to return after graduation, she would also be considered a Canadian factual resident.</li>
+      <li>In spite of the tie-breaking rules likely being in Canada's favour, her US citizenship means that she will continue to be treated as a US tax resident.</li>
+      <li>Sophie will be taxed on her worldwide income in both Canada and the US, and may be subject to US FBAR & FACTA in addition to Canadian T1135 regulations if she holds significant foreign assets.</li>
+    </ul>
+  </div>
+  <div class="box">
+	  <p><b>Example 2</b></p>
+    <p>Kate is a Canadian citizen who recently returned to Canada after living in the US for 10 years. During her time in the US, she became a Permanent Resident. She sold all of her US possessions, and her spouse and children are accompanying her back to Canada.</p>
+    <ul>
+      <li>By virtue of her US PR status, she would be considered a US tax resident. Given that she has reestablished strong residential ties to Canada, she would also be treated as a Canadian tax resident.</li>
+      <li>The tie-breaking rules of the Treaty will be in Canada's favour.</li>
+      <li>Unless Kate has assets or investments in the US, she will be considered to be an NRA for US tax purposes. She does not have to comply with FBAR or FACTA regulations.</li>
+    </ul>
+  </div>
+  <p>To reduce double taxation, both Canada and US allow for <b>Foreign Tax Credits (FTCs)</b>, a dollar-for-dollar credit against income tax for ANY foreign income taxes paid.</p>
+  <p>Canadian students studying in the US will likely have three types of income:</p>
+    <ul>
+      <li><b>Employment income</b></li>
+      <li><b>Scholarship/fellowship income</b></li>
+      <li><b>Educational Assistance Payments (EAPs) from an RESP</b></li>
+    </ul>
+  <p>Generally, NRAs have more recourse to claiming exemptions over USCs. Canadian employment income will only be taxed in Canada, as NRAs are only taxed on US-source income. US employment income is generally taxed at the usual federal graduated tax brackets in the US. However, if the taxpayer made <b>less than US$10k in a year across all employers</b>, then <b>Article XV(2)(a)</b> of the Treaty provides that this income will be <b>totally</b> exempt from US taxation. To avail of this provision, a taxpayer must file a <b>1040-NR return</b> and also use <b>Form 8833</b> to disclose the Treaty-based benefit. Such US employment income, regardless of meeting XV(2)(a), is taxable in Canada.</p>
+  <p>Unlike Canada, where scholarships are tax-exempt for full-time students, US law establishes that a scholarship's tax liability depends on what portion of the scholarship is for <b>qualified</b> (education) or <b>non-qualified</b> (living) expenses. <b>Only the non-qualified portion is taxed</b>, at the usual graduated tax brackets.</p>
+  <p>Finally, given RESP EAP payments resolve from Canadian financial institutions, they are tax-exempt in the US for NRAs.</p>
+  <p>In contrast, a Canadian resident who is a US citizen studying in the US would not be able to avail of many Treaty provisions due to the savings clause. With respect to foreign scholarship income, <a href="https://www.irs.gov/irm/part21/irm_21-008-001r/"><i>Internal Revenue Manual 21.8.1.12.17</i></a> provides that if a scholarship's terms are unclear AND it is used for tuition expenses, it shall be treated as tax-free. To that end, it is extremely advisable to keep a record of what the scholarship funds were spent on to ensure against a potential audit.</p>
+  <div class="box">
+	  <p><b>Example 3</b></p>
+    <p>Maggie is a Canadian citizen who is present in the US on an F-1 visa. During the 2025 year, she had a part-time job during the school term while she was in the US, making US$11k. She also had a summer job in Canada, grossing CA$25k. She also received a Canadian scholarship, valued at CA$5k, and a US scholarship for her tuition, valued at US$20k. Half of this amount (US$10k) was for eligible expenses. Finally, she also received an RESP EAP payment valued at CA$7k.</p>
+    <ul>
+      <li>Assume Maggie is a Canadian tax resident. She is a US NRA.</li>
+    </ul>
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+            <th><b>Taxed in USA?</b></th>
+            <th><b>Taxed in Canada?</b></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>A. US Job (US$11k)</td>
+            <td>Yes, at graduated tax rates. Did not meet Article XV(2)(a) of the Treaty.</td>
+            <td>Yes. Can claim FTCs. US taxes will offset Canadian taxes.</td>
+          </tr>
+          <tr>
+            <td>B. Canadian Job (CA$25k)</td>
+            <td>No. Not US-source income.</td>
+            <td>Yes, at graduated tax rates.</td>
+          </tr>
+          <tr>
+            <td>C. US Scholarship (US$20k)</td>
+            <td>Partly. Exempt portion (US$10k) is tax-free, non-exempt portion (US$10k) is subject to graduated tax rates.</td>
+            <td>No. Scholarships for full-time students are not taxed.</td>
+          </tr>
+          <tr>
+            <td>D. Canadian Scholarship (CA$5k)</td>
+            <td>No. Not US-source income.</td>
+            <td>No. Scholarships for full-time students are not taxed</td>
+          </tr>
+          <tr>
+            <td>E. Canadian RESP EAP (CA$7k)</td>
+            <td>No. Not US-source income.</td>
+            <td>Yes, at graduated tax rates.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div> 
+  </div>
+  <div class="box">
+	  <p><b>Example 4</b></p>
+    <p>Sophie is a US-Canada dual citizen studying in the US. During the 2025 year, she had a part-time job during the school term while she was in the US, making US$11k. She also had a summer job in Canada, grossing CA$25k. She also received a Canadian scholarship, valued at CA$5k, and a US scholarship for her tuition, valued at US$20k. Half of this amount (US$10k) was for eligible expenses. Finally, she also received an RESP EAP payment valued at CA$7k.</p>
+    <ul>
+      <li>Assume Sophie is a Canadian tax resident. As a USC, she is treated as a US tax resident.</li>
+    </ul>
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+            <th><b>Taxed in USA?</b></th>
+            <th><b>Taxed in Canada?</b></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>A. US Job (US$11k)</td>
+            <td>Yes, at graduated tax rates.</td>
+            <td>Yes. Can claim FTCs. US taxes will offset Canadian taxes.</td>
+          </tr>
+          <tr>
+            <td>B. Canadian Job (CA$25k)</td>
+            <td>Yes. Can claim FTCs. Canadian taxes will offset US taxes.</td>
+            <td>Yes, at graduated tax rates.</td>
+          </tr>
+          <tr>
+            <td>C. US Scholarship (US$20k)</td>
+            <td>Partly. Exempt portion (US$10k) is tax-free,  non-exempt portion (US$10k) is subject to graduated tax rates.</td>
+            <td>No. Scholarships for full-time students are not taxed.</td>
+          </tr>
+          <tr>
+            <td>D. Canadian Scholarship (CA$5k)</td>
+            <td>No. Not US-source income.</td>
+            <td>No. Scholarships for full-time students are not taxed</td>
+          </tr>
+          <tr>
+            <td>E. Canadian RESP EAP (CA$7k)</td>
+            <td>Yes. Can claim FTCs. Canadian taxes will offset US taxes.</td>
+            <td>Yes, at graduated tax rates.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div> 
+  </div>
+  <p>In all, the rules surrounding Canada-US taxation are extremely convoluted. In these cases, having professional advice can be crucial in fully understanding your rights and responsibilities in each country. In the next article, join us as we discuss the implications of Canada-UK taxation.</p>
+  <p>--------</p>
+  <p><b>Too complicated? No worries! KLee Tax FSC</b> specializes in <b>international taxation</b> for individuals and corporations! Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that we will be there for your tax needs, when and where you need us.</p>
+  <p><b>Contact us below for a consultation or to discuss the contents of this article!</b></p>
