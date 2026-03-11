@@ -46,5 +46,5 @@ show_tile: false
     <p>Because the note is never repaid and the beneficiaries are the same, the <b>CRA has grounds to invoke GAAR</b>. In this case, the <b>penalty is equal to the cost of the deemed disposition on the 21st anniversary, plus 25%.</b></p>
   </div>
   <p>--------</p>
-  <p><b>A bit about us</b>: <b>KLee Tax</b> specializes in filing tax returns for individuals, businesses, and corporations. Whether you are working your first job, running a business, or an NPO looking to make a difference, you can be sure that <b>KLee Tax</b> will be there for your tax needs, when and where you need us.</p>
-  <p><b>Unsure of where to start? Be sure to reach out below!</b></p>
+  <p><b>Too complicated? No worries!</b> We file tax returns and offer tax planning services to individuals and not-for-profit organizations. Whether you are working your first job or an NPO looking to make a difference, you can be sure that <b>KLee Tax</b> will be there for your tax needs, when and where you need us.</p>
+  <p><b>Contact us below for a consultation or to discuss the contents of this article!</b></p>
