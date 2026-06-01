@@ -51,7 +51,19 @@ show_tile: false
     margin-bottom: 10px
   }
 </style>
-
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Taxes 101</h2>
+		</header>
+		<p>Is this your first time filing taxes? Not to worry! By reading the following article, geared towards students and young professionals, you will be able to answer some of the following questions:</p>
+    <ul>
+      <li>Who needs to file a tax return?</li>
+      <li>Why should I file a tax return</li>
+      <li>How is income tax calculated?</li>
+      <li>What are some common ways I can reduce my taxes?</li>
+	</div>
+</section>
 <section id="two" class="spotlights">
 	<section>
 		<a href="/posts/2026/02-09-ma2" class="image">

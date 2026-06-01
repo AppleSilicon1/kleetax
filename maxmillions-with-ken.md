@@ -23,13 +23,29 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="/posts/2026/06-01-ma3" class="image">
+			<img src="{% link assets/images/pic45.jpg %}" alt="" data-position="" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NEW: Matriculating Abroad — Moving Out and Writing Off</h3>
+				</header>
+				<p>By: Ken Lee, PFA<br>Published: 1 June 2026 4:00AM EST</p>
+				<ul class="actions">
+					<li><a href="/posts/2026/06-01-ma3" class="button">Read me!</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="/posts/2026/02-09-ma2" class="image">
 			<img src="{% link assets/images/pic43.jpg %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>NEW: Matriculating Abroad — Canadian Students in America</h3>
+					<h3>Matriculating Abroad: Canadian Students in America</h3>
 				</header>
 				<p>By: Ken Lee, PFA<br>Published: 09 February 2026 4:00AM EST</p>
 				<ul class="actions">
