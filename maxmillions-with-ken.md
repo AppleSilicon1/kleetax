@@ -24,7 +24,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/posts/2026/06-15-tm1" class="image">
-			<img src="{% link assets/images/pic47.jpg %}" alt="" data-position="" />
+			<img src="{% link assets/images/pic47.png %}" alt="" data-position="" />
 		</a>
 		<div class="content">
 			<div class="inner">
