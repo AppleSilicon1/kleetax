@@ -15,12 +15,6 @@ nav-menu: true
 		<header class="major">
 			<h1>What We Do</h1>
 		</header>
-
-<p>This page is under development. Check back soon.</p>
-
-<!-- 
-
-
 <h2 id="services">My Services</h2>
 <p> At KLee Tax, our #1 priority is your financial security. With hands-on experience and a passion for taxation, We're here to make your money work for <b>you</b>. Here's a look at what we do:  
 <div class="row">
@@ -71,5 +65,3 @@ nav-menu: true
         </div>
     </div>
 </section> 
-
--->
